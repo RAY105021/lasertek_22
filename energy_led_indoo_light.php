@@ -5,7 +5,7 @@
     <title>能源事業 LED燈具系列</title>
     <meta charset="UTF-8">
     <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, 能源事業,  LED室內燈, LED室外燈,  LED 特殊燈具, RAYCO8500高效空氣清淨機, 空氣清淨機濾網, 線上購物" />
-    <meta name="description" content="能源事業 LED室內燈系列" />
+    <meta name="description" content="能源事業 LED燈具系列" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="zh-tw">
@@ -51,7 +51,7 @@
 
 <body class="nav-is-fixed">
 
-    <h1>能源事業 LED室內燈系列</h1>
+    <h1>能源事業 LED燈具系列</h1>
 
     <!-- header  -->
     <?php include 'header.php'; ?>
@@ -118,19 +118,19 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class" selected="true"><samp>LED燈具系列 ALL</samp></option>
-                                                    <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8燈管</option>
+                                                    <option value="energy_led_clean_room.php"> • 半導體廠無塵室專用LED T8黃光燈管</option>
+                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8半鋁塑燈管</option>
                                                     <option value="energy_led_t5_electronic.php"> • LED電子式T5燈管</option>
-                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
+                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
-                                                    <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
+                                                    <option value="energy_led_grille_lam.php"> • LED輕鋼架格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型投射燈(戶外)</option>
                                                     <option value="energy_led_fish_light.php"> • LED COB投射燈</option>
-                                                    <option value="energy_led_big_bulb_light.php"> • LED各式球泡燈</option>
-                                                    <option value="energy_led_recessed_light.php"> • LED崁燈</option>
+                                                    <option value="energy_led_big_bulb_light.php"> • LED高功率球泡燈</option>
+                                                    <option value="energy_led_recessed_light.php"> • LED高亮崁燈</option>
                                                     <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
-                                                    <option value="energy_led_ar111.php"> • LED AR111 </option>
+                                                    <option value="energy_led_ar111.php"> • LED AR111光源 </option>
                                                 </select>
                                             </li>
                                         </ul>
@@ -211,8 +211,8 @@
 
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="energy_led_t8_lamp.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film04.png" alt="LED高效T8燈管"></a>
-                            <p><a href="energy_led_t8_lamp.php">LED高效T8燈管</a></p>
+                            <a href="energy_led_t8_lamp.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film04.png" alt="LED高效T8半鋁塑燈管"></a>
+                            <p><a href="energy_led_t8_lamp.php">LED高效T8半鋁塑燈管</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             取代傳統日光燈管
@@ -231,8 +231,8 @@
 
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="energy_led_t5_laminate.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film03.png" alt="LED T5層板串接燈管"></a>
-                            <p><a href="energy_led_t5_laminate.php">LED T5層板串接燈管</a></p>
+                            <a href="energy_led_t5_laminate.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film03.png" alt="LED T5層板串接燈"></a>
+                            <p><a href="energy_led_t5_laminate.php">LED T5層板串接燈</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             塑膠+鋁合金 防火等級V2
@@ -275,7 +275,7 @@
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
                             <a href="energy_led_projection_light.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film14.png" alt="LED 投射燈"></a>
-                            <p><a href="energy_led_projection_light.php">LED 泛光型</a></p>
+                            <p><a href="energy_led_projection_light.php">LED 泛光型投射燈</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             耐用性高的鋁合金外殼
@@ -327,8 +327,8 @@
 
                     <div class="wow slideInRight ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="energy_led_ar111.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film11.png" alt="LED AR111"></a>
-                            <p><a href="energy_led_ar111.php">LED AR111</a></p>
+                            <a href="energy_led_ar111.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film11.png" alt="LED AR111光源"></a>
+                            <p><a href="energy_led_ar111.php">LED AR111光源</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             100V～240V 50/60Hz

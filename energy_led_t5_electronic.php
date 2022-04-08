@@ -78,7 +78,7 @@
                         <li><a href="index.php">首頁</a> > </li>
                         <li><a href="#">部門資訊</a> > </li>
                         <li><a href="energy.php">能源事業</a> > </li>
-                        <li><a href="energy_led_indoo_light.php">LED室內燈系列</a> ></li>
+                        <li><a href="energy_led_indoo_light.php">LED燈具系列</a> ></li>
                         <li>LED電子式T5燈管</li>
                     </ul>
                 </div>
@@ -99,19 +99,19 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class"><samp>LED燈具系列 ALL</samp></option>
-                                                    <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8燈管</option>
+                                                    <option value="energy_led_clean_room.php"> • 半導體廠無塵室專用LED T8黃光燈管</option>
+                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8半鋁塑燈管</option>
                                                     <option value="energy_led_t5_electronic.php" selected="true"> • LED電子式T5燈管</option>
-                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
+                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
-                                                    <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
+                                                    <option value="energy_led_grille_lam.php"> • LED輕鋼架格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型投射燈(戶外)</option>
                                                     <option value="energy_led_fish_light.php"> • LED COB投射燈</option>
-                                                    <option value="energy_led_big_bulb_light.php"> • LED各式球泡燈</option>
-                                                    <option value="energy_led_recessed_light.php"> • LED崁燈</option>
+                                                    <option value="energy_led_big_bulb_light.php"> • LED高功率球泡燈</option>
+                                                    <option value="energy_led_recessed_light.php"> • LED高亮崁燈</option>
                                                     <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
-                                                    <option value="energy_led_ar111.php"> • LED AR111 </option>
+                                                    <option value="energy_led_ar111.php"> • LED AR111光源 </option>
                                                 </select>
                                             </li>
                                         </ul>
@@ -177,7 +177,7 @@
 
 
                 <h3 av-animation="fadeInDown">LED燈具系列</h3>
-                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
+                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 ＃1401、1402 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
                 </h4>
 
                 <div class="ltt_box_content_all">
@@ -208,11 +208,6 @@
                                 <li class="ltt_page_text_li_samp">符合傳統G5插座：標準T5直徑設計。</li>
                                 <li class="ltt_page_text_li_samp">防火塑料處理。</li>
                                 <li class="ltt_page_text_li_samp">鋁本體，塑膠光學光罩，透光度90%以上。</li>
-                                <li class="ltt_page_text_li_samp">標準G5插座，2Pin銅頭插針。</li>
-                                <li class="ltt_page_text_li_samp">工作溫度：-20℃~ +40℃。</li>
-                                <li class="ltt_page_text_li_samp">儲存溫度：-40℃~ +60℃。</li>
-                                <li class="ltt_page_text_li_samp">消耗功率、重量、光通量誤差值為±15%。</li>
-                                <li class="ltt_page_text_li_samp">所有規格、壽命、效能都是根據25℃室溫溫度。</li>
                                 <li class="ltt_page_text_li_samp">避免用於一般市電燈座上使用。</li>
                                 <li class="ltt_page_text_li_samp">適用於室內：辦公室、會議廳、圖書館、住宅、停車場。</li>
                                 <li class="ltt_page_text_li_samp">適用於櫥櫃、書架、展示櫃、廣告燈、背光照明應用。</li>

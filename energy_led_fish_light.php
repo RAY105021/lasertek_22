@@ -100,19 +100,19 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class"><samp>LED燈具系列 ALL</samp></option>
-                                                    <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8燈管</option>
+                                                    <option value="energy_led_clean_room.php"> • 半導體廠無塵室專用LED T8黃光燈管</option>
+                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8半鋁塑燈管</option>
                                                     <option value="energy_led_t5_electronic.php"> • LED電子式T5燈管</option>
-                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
+                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
-                                                    <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
+                                                    <option value="energy_led_grille_lam.php"> • LED輕鋼架格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型投射燈(戶外)</option>
                                                     <option value="energy_led_fish_light.php" selected="true"> • LED COB投射燈</option>
-                                                    <option value="energy_led_big_bulb_light.php"> • LED各式球泡燈</option>
-                                                    <option value="energy_led_recessed_light.php"> • LED崁燈</option>
+                                                    <option value="energy_led_big_bulb_light.php"> • LED高功率球泡燈</option>
+                                                    <option value="energy_led_recessed_light.php"> • LED高亮崁燈</option>
                                                     <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
-                                                    <option value="energy_led_ar111.php"> • LED AR111 </option>
+                                                    <option value="energy_led_ar111.php"> • LED AR111光源 </option>
                                                 </select>
                                             </li>
                                         </ul>
@@ -176,8 +176,8 @@
                 </div>
 
 
-                <h3 av-animation="fadeInDown">LED室內燈系列</h3>
-                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
+                <h3 av-animation="fadeInDown">LED燈具系列</h3>
+                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 ＃1401、1402 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
                 </h4>
 
                 <div class="ltt_box_content_all">
@@ -202,13 +202,14 @@
 
                             </div>
                             <ul class="ltt_page_text">
+                                <li class="ltt_page_text_li_samp">COB光源模組。</li>
                                 <li class="ltt_page_text_li_samp">無紫外光及其他有害光線。</li>
                                 <li class="ltt_page_text_li_samp">高光效光源節能50%。</li>
                                 <li class="ltt_page_text_li_samp">散熱佳；低光衰；亮度持久。</li>
                                 <li class="ltt_page_text_li_samp">採用明緯電源 穩定壽命長。</li>
                                 <li class="ltt_page_text_li_samp">產品適用於建築物照明、工業區域照明、停車場、景觀照明等。</li>
-                                <li class="ltt_page_text_li_samp">操作溫度(Ta):0~40℃。</li>
-                                <li class="ltt_page_text_li_samp">儲存溫度(Ts):-40~65℃。</li>
+                                <li class="ltt_page_text_li_samp">IP 65防水處理。</li>
+
                             </ul>
 
                         </div>
@@ -226,38 +227,38 @@
                 <h4 av-animation="fadeInUp">Other Product Description</h4>
                 <div class="ltt_box_content_all">
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15.png" alt="LED泛光型-150W">
-                        <samp class="product_features_type">LED泛光型-150W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15.png" alt="LED泛光型投射燈(戶外)-150W">
+                        <samp class="product_features_type">LED COB投射燈-150W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_01.png" alt="LED泛光型-100W">
-                        <samp class="product_features_type">LED泛光型-100W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_01.png" alt="LED泛光型投射燈(戶外)-100W">
+                        <samp class="product_features_type">LED COB投射燈-100W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_02.png" alt="LED泛光型-30W~50W">
-                        <samp class="product_features_type">LED泛光型-30W~50W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_02.png" alt="LED泛光型投射燈(戶外)-30W~50W">
+                        <samp class="product_features_type">LED COB投射燈-30W~50W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_03.png" alt="LED泛光型-30W">
-                        <samp class="product_features_type">LED泛光型-30W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_03.png" alt="LED泛光型投射燈(戶外)-30W">
+                        <samp class="product_features_type">LED COB投射燈-30W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_04.png" alt="LED泛光型-50W">
-                        <samp class="product_features_type">LED泛光型-50W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_04.png" alt="LED泛光型投射燈(戶外)-50W">
+                        <samp class="product_features_type">LED COB投射燈-50W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_05.png" alt="LED泛光型-100W">
-                        <samp class="product_features_type">LED泛光型-100W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_05.png" alt="LED泛光型投射燈(戶外)-100W">
+                        <samp class="product_features_type">LED COB投射燈-100W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_06.png" alt="LED泛光型-150W">
-                        <samp class="product_features_type">LED泛光型-150W</samp>
+                        <img class="product_features_tetx_img" src="img/energy/product_thick_film15_06.png" alt="LED泛光型投射燈(戶外)-150W">
+                        <samp class="product_features_type">LED COB投射燈-150W</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">

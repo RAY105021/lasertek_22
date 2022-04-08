@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="css/section_page.css"> <!-- 首頁內容 style -->
     <!--表單-->
     <link rel="stylesheet" href="css/table.css">
-     <!--客服浮動+回上一頁-->
+    <!--客服浮動+回上一頁-->
     <script type="text/javascript" src="js/service.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82641040-3"></script>
@@ -390,12 +390,12 @@
                                         </td>
                                         <td>
                                             <div class="ltt_page_text_li_download">
-                                                <!--<a href="download/service/Earnings110Q4A.pdf" target="_blank">PDF</a>-->
+                                                <a href="download/service/Earnings110Q11D.pdf" target="_blank">PDF</a>
                                             </div>
                                         </td>
                                         <td>
                                             <div class="ltt_page_text_li_download">
-                                                <!--<a href="download/service/Earnings110Q4B.pdf" target="_blank">PDF</a>-->
+                                                <a href="download/service/Earnings110_all.pdf" target="_blank">PDF</a>
                                             </div>
                                         </td>
                                     </tr>

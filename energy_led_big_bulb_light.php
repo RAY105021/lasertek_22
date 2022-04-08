@@ -2,10 +2,10 @@
 <html lang="en" class="no-js">
 
 <head>
-    <title>雷科-能源事業 LED燈具系列 LED各式球泡燈</title>
+    <title>雷科-能源事業 LED燈具系列 LED高功率球泡燈</title>
     <meta charset="UTF-8">
-    <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, 能源事業, LED照明, RAYCO8500高效空氣清淨機, 濾網, 防疫噴霧, 防疫貼片, LED各式球泡燈" />
-    <meta name="description" content="雷科-能源事業 LED燈具系列 LED各式球泡燈" />
+    <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, 能源事業, LED照明, RAYCO8500高效空氣清淨機, 濾網, 防疫噴霧, 防疫貼片, LED高功率球泡燈" />
+    <meta name="description" content="雷科-能源事業 LED燈具系列 LED高功率球泡燈" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="zh-tw">
@@ -51,7 +51,7 @@
 
 <body class="nav-is-fixed">
 
-    <h1>能源事業-LED燈具系列 LED各式球泡燈</h1>
+    <h1>能源事業-LED燈具系列 LED高功率球泡燈</h1>
 
     <!-- header  -->
     <?php include 'header.php'; ?>
@@ -80,7 +80,7 @@
                         <li><a href="#">部門資訊</a> > </li>
                         <li><a href="energy.php">能源事業</a> > </li>
                         <li><a href="energy_led_indoo_light.php">LED燈具系列</a> ></li>
-                        <li>LED各式球泡燈</li>
+                        <li>LED高功率球泡燈</li>
                     </ul>
                 </div>
 
@@ -100,19 +100,19 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class"><samp>LED燈具系列 ALL</samp></option>
-                                                    <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8燈管</option>
+                                                    <option value="energy_led_clean_room.php"> • 半導體廠無塵室專用LED T8黃光燈管</option>
+                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8半鋁塑燈管</option>
                                                     <option value="energy_led_t5_electronic.php"> • LED電子式T5燈管</option>
-                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
+                                                    <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
-                                                    <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
+                                                    <option value="energy_led_grille_lam.php"> • LED輕鋼架格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型投射燈(戶外)</option>
                                                     <option value="energy_led_fish_light.php"> • LED COB投射燈</option>
-                                                    <option value="energy_led_big_bulb_light.php" selected="true"> • LED各式球泡燈</option>
-                                                    <option value="energy_led_recessed_light.php"> • LED崁燈</option>
+                                                    <option value="energy_led_big_bulb_light.php" selected="true"> • LED高功率球泡燈</option>
+                                                    <option value="energy_led_recessed_light.php"> • LED高亮崁燈</option>
                                                     <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
-                                                    <option value="energy_led_ar111.php"> • LED AR111 </option>
+                                                    <option value="energy_led_ar111.php"> • LED AR111光源 </option>
                                                 </select>
                                             </li>
                                         </ul>
@@ -176,14 +176,14 @@
                 </div>
 
 
-                <h3 av-animation="fadeInDown">LED室內燈系列</h3>
-                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
+                <h3 av-animation="fadeInDown">LED燈具系列</h3>
+                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 ＃1401、1402 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
                 </h4>
 
                 <div class="ltt_box_content_all">
                     <div class="wow slideInLeft ltt_box_product_50 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <img class="ltt_box_product_img" src="img/energy/product_thick_film07.png" alt="LED各式球泡燈">
+                            <img class="ltt_box_product_img" src="img/energy/product_thick_film07.png" alt="LED高功率球泡燈">
                         </div>
 
                     </div>
@@ -198,13 +198,12 @@
                                 </div>
                             </div>
                             <div class="ltt_page_color">
-                                <h5>LED各式球泡燈</h5>
+                                <h5>LED高功率球泡燈</h5>
 
                             </div>
                             <ul class="ltt_page_text">
-                                <li class="ltt_page_text_li_samp">45W球泡可取代傳統E27燈座鹵素燈泡，適用於讀書台燈等。</li>
-                                <li class="ltt_page_text_li_samp">全自動感應：人進入其感應範圍則立即點亮，人離開感應則自動延時後逐漸熄滅。</li>
-                                <li class="ltt_page_text_li_samp">人來燈亮，人走燈滅，自動節能。</li>
+                                <li class="ltt_page_text_li_samp">LED球泡燈可取代傳統E27燈泡，適用於讀書台燈等。</li>
+                                <li class="ltt_page_text_li_samp">隨點即亮不延遲。</li>
                                 <li class="ltt_page_text_li_samp">不含汞，無UV、無紫外線等污染原素。</li>
                                 <li class="ltt_page_text_li_samp">節能率60%以上，防眩光設計，擴散均勻。</li>
                             </ul>
@@ -230,18 +229,14 @@
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
                         <img class="product_features_tetx_img" src="img/energy/product_thick_film07_01.png" alt="5W球泡燈(2)">
-                        <samp class="product_features_type">45W球泡燈(2)</samp>
+                        <samp class="product_features_type">25W/45W球泡燈(2)</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
                         <img class="product_features_tetx_img" src="img/energy/product_thick_film07_02.png" alt="5W球泡燈(3)">
-                        <samp class="product_features_type">45W球泡燈(3)</samp>
+                        <samp class="product_features_type">25W/45W球泡燈(3)</samp>
                     </div>
 
-                    <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/product_thick_film07_04.png" alt="球泡燈相關標章">
-                        <samp class="product_features_type">球泡燈相關標章</samp>
-                    </div>
 
                 </div>
             </section>
@@ -336,10 +331,7 @@
                                     <td>5000Hrs</td>
                                 </tr>
 
-                                <tr>
-                                    <th>Certification</th>
-                                    <td>CE/CNS/BSMI</td>
-                                </tr>
+                               
 
 
 
