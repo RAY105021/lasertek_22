@@ -177,7 +177,7 @@
 
 
                 <h3 av-animation="fadeInDown">LED燈具系列</h3>
-                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案及客製化產品【TEL】+886-7-8159877 ＃1401、1402 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
+                <h4 av-animation="fadeInUp">現場免費評估、規劃節能方案或其他燈具種類需求【TEL】+886-7-8159877 ＃1401、1402 <a href="mailto:led@lasertek.com.tw?subject=能源LED">E-MAIL</a>
                 </h4>
 
                 <div class="ltt_box_content_all">
