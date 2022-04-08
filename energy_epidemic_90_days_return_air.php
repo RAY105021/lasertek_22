@@ -225,30 +225,37 @@
                 <h4 av-animation="fadeInUp">Other Product Description</h4>
                 <div class="ltt_box_content_all">
                     <div class="wow slideInUp ltt_box_product_50 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_05.jpg" alt="美國國家環境保護署(EPA)認可實驗室Microbac認證能有效抑制新冠病毒">
-                        <samp class="product_features_type">美國國家環境保護署(EPA)認可實驗室Microbac<br>認證能有效抑制新冠病毒</samp>
+                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_01.jpg" alt="財團法人國家衛生研究院實驗證明能有效降解4種類型腸病毒">
+                        <samp class="product_features_type">財團法人國家衛生研究院實驗證明能有效降解4種類型腸病毒</samp>
                     </div>
 
 
                     <div class="wow slideInUp ltt_box_product_50 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_06.jpg" alt="72小時長效抗菌防護噴劑接觸抗菌及釋放抗菌雙重防疫效果">
-                        <samp class="product_features_type">72小時長效抗菌防護噴劑接觸抗菌及釋放抗菌雙重防疫效果</samp>
+                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_02.jpg" alt="經高雄醫學大學產學合作計畫測試結果GERMAGIC濾膜抗菌效率100％＊">
+                        <samp class="product_features_type">經高雄醫學大學產學合作計畫測試結果GERMAGIC濾膜抗菌效率100％＊</samp>
                     </div>
 
+                    <div class="wow slideInUp ltt_box_product_50 ltt_box_product_right product_features_tetx">
+                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_03.jpg" alt="通過SGS測試可去除甲醛達90%以上">
+                        <samp class="product_features_type">通過SGS測試可去除甲醛達90%以上</samp>
+                    </div>
 
+                    <div class="wow slideInUp ltt_box_product_50 ltt_box_product_right product_features_tetx">
+                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_04.jpg" alt="經WHO日本仙台病毒中心測試有效阻擋氣溶膠傳播">
+                        <samp class="product_features_type">經WHO日本仙台病毒中心測試有效阻擋氣溶膠傳播</samp>
+                    </div>
 
                     <div class="wow slideInUp ltt_box_product_100 ltt_box_product_right product_features_tetx">
-                        <a href="https://youtu.be/kmR3vmmBSFU" target="_bland">
-                            <img class="product_features_tetx_img" src="img/energy/rayco_tu_mov06.jpg" alt="2021 GERMAGIC高雄臨廣科技園區國際會議廳噴灑">
+                        <a href="https://youtu.be/6YfxcmjP0s8" target="_bland">
+                            <img class="product_features_tetx_img" src="img/energy/rayco_tu_mov04.jpg" alt="2021 GERMAGIC-90天長效抗菌防護濾膜">
                         </a>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_100 ltt_box_product_right product_features_tetx">
-                        <a href="https://youtu.be/fQp0hT9ijI8" target="_bland">
-                            <img class="product_features_tetx_img" src="img/energy/rayco_tu_mov07.jpg" alt="GERMAGIC產品使用">
+                        <a href=" https://youtu.be/7VsSikx-ihE" target="_bland">
+                            <img class="product_features_tetx_img" src="img/energy/rayco_tu_mov04.jpg" alt="90天輕鋼架迴風口濾網組">
                         </a>
                     </div>
-
 
 
 
