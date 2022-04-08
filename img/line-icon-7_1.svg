@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40" height="40"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:1.699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'CasperBold';}
+	.st3{font-size:16.6156px;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="10.5" cy="5.1" r="3.1"/>
+		<path class="st0" d="M6.2,25.4c-1.6-0.5-2.7-1.9-2.7-3.6V15c0-2.1,1.7-3.8,3.8-3.8h6.4c2.1,0,3.8,1.7,3.8,3.8v6.8
+			c0,1.6-1,2.9-2.4,3.5"/>
+		<g>
+			<polyline class="st0" points="6.7,17.3 6.7,37.3 14.2,37.3 14.2,17.3 			"/>
+			<line class="st0" x1="10.5" y1="26.5" x2="10.5" y2="37.3"/>
+		</g>
+	</g>
+	<path class="st0" d="M21.7,14.2c6.2-2.1,12.9,1.1,15,7.3s-1.1,12.9-7.3,15c-4,1.4-8.3,0.5-11.4-2"/>
+	<text transform="matrix(1 0 0 1 21.2706 30.8414)" class="st1 st2 st3">$</text>
+</g>
+</svg>

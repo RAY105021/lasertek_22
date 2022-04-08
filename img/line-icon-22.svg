@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:1.647;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#E60012;stroke-width:1.647;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="10" cy="15.6" r="3.7"/>
+		<path class="st0" d="M13.6,22.4h1.7h10.8c1.4,0,2.5,1.1,2.5,2.5s-1.1,2.5-2.5,2.5l-8.8,0v6.8H2v-9.7c0-1.1,0.9-2,2-2h3.8l3,4.4
+			L13.6,22.4z"/>
+		<ellipse class="st0" cx="29.1" cy="15.3" rx="3" ry="7.4"/>
+		<path class="st0" d="M29.1,7.8l-9.3,3.3c0,0-3.1,0.7-3.1,4.2c0,3,2.8,3.8,2.8,3.8l9.3,3.6"/>
+		<path class="st0" d="M26.3,12.8c1.4,0,2.5,1.1,2.5,2.5s-1.1,2.5-2.5,2.5"/>
+	</g>
+	<line class="st1" x1="34.3" y1="15.9" x2="38.3" y2="15.9"/>
+	<line class="st1" x1="34.2" y1="11.8" x2="37" y2="9"/>
+	<line class="st1" x1="37" y1="22.9" x2="34.2" y2="20.1"/>
+</g>
+</svg>

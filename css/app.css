@@ -1,0 +1,178 @@
+
+.tabs-wrapper { 
+  overflow: hidden; 
+}
+
+.tabs-wrapper .tab-content a:hover { 
+  text-decoration: underline; 
+}
+
+.tabs-wrapper .tab-content ul {
+  margin: 0;
+  padding-left: 20px;
+  list-style: square;
+}
+
+ .tabs-wrapper .tab-content ul li { 
+   margin-bottom: 5px;
+  }
+
+.animated {
+  -webkit-animation-duration: 150ms;
+  animation-duration: 150ms;
+}
+
+.tab-content ul li {
+  list-style-type:none;
+}
+
+.tab-content_blue a:link {
+  color: #007FD3;
+}
+
+.tab-content_blue a:visited {
+  color: #007FD3;
+}
+
+.tab-content_blue a:hover {
+  color: #007FD3;
+}
+
+
+
+ @media screen and (max-width: 799px) {
+
+.logo-wrapper img { width: 320px; }
+
+.wrapper {
+  width: auto;
+  padding: 0px 20px;
+}
+
+}
+
+.tabs-wrapper {
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.tabs-wrapper select.tab-nav { display: none; }
+
+.tabs-wrapper ul.tab-nav {
+  list-style: none;
+  display: block;
+  border-bottom: 1px solid #DEDEDE;
+  margin: 0px;
+  
+}
+
+.tabs-wrapper ul.tab-nav li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+/*---頁籤寬度---*/
+.tabs-wrapper ul.tab-nav li a {
+  text-decoration: none;
+  color: #007FD3;
+  padding: 12px 20px;
+  border: 1px solid #DEDEDE;
+  border-bottom-width: 1px solid transparent;
+  display: block;
+  border-radius: 2px 2px 0px 0px;
+  margin-bottom: -1px;
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.tabs-wrapper ul.tab-nav li.active a {
+  border-bottom: 1px solid #FAFAFA;
+  background: #FAFAFA;
+}
+
+.tabs-wrapper ul.tab-nav li:hover a { background: #FAFAFA; }
+
+.tabs-wrapper .target-tabs {
+  background: #FAFAFA;
+  border: 1px solid #DEDEDE;
+  border-top-width: 0px;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+
+.tabs-wrapper .target-tabs .tab-content {
+  display: none;
+  padding: 20px;
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.tabs-wrapper .target-tabs .tab-content .tab-heading .tab-no {
+  font-size: 28px;
+  font-weight: light;
+
+}
+
+.tab-heading {
+  width: 100%;
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+
+.tabs-wrapper .target-tabs .tab-content p {
+  line-height: 24px;
+  word-spacing: 1px;
+}
+
+.tabs-wrapper .target-tabs .tab-content.active { 
+  display: block; 
+}
+
+.tabs-wrapper .target-tabs .tab-content.inactive { 
+  position: absolute; 
+}
+
+.tabs-wrapper .target-tabs .tab-content a {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+.tabs-wrapper .target-tabs .tab-content a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+ @media screen and (max-width: 799px) {
+
+.tabs-wrapper ul.tab-nav { display: none; }
+
+.tabs-wrapper select.tab-nav {
+  width: 100%;
+  padding: 8px 5px;
+  background: #FFF;
+  border: 1px solid #DEDEDE;
+  border-radius: 2px 2px 0px 0px;
+  display: block;
+  font-size: 2rem;
+}
+
+.tabs-wrapper select.tab-nav:focus { 
+  outline: none; 
+}
+
+.tabs-wrapper .target-tabs { 
+  border-radius: 0px 0px 2px 2px; 
+}
+
+}

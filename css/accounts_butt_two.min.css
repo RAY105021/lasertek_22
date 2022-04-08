@@ -1,0 +1,93 @@
+/*! Bagpakk v1.0.0b | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/bagpakk */
+
+.button-big{
+ cursor:pointer;
+ outline:0!important;
+ position:relative;
+ opacity:1!important;
+ line-height:1!important;
+ font-style:normal!important;
+ vertical-align:middle;
+ text-shadow:none!important;
+ font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+ text-align:center;
+ font-weight:600!important;
+ text-decoration:none!important;
+ display:inline-block;
+ letter-spacing:0;
+ color:#fff!important;
+ border: 1px solid #a9a9a9!important;
+ background-image:none;
+ background-color:#a9a9a9; /*按鈕*/
+ -webkit-border-radius:4px;
+ border-radius:4px;
+ width:100%;
+ text-align:center;
+ margin-bottom: 1.618rem;
+ margin-top: 1em;
+ -webkit-box-shadow: 0 6px 0 #6e6e6e;
+ box-shadow: 0 6px 0 #6e6e6e; /*按鈕陰影*/
+ margin: 0 0 6px 0;
+ top: -3px;
+ }
+
+.button-big:hover, .button-big:active, .button-big:focus {
+  top:-3px;
+  background-color: #979797;
+}
+
+.button-big:hover {
+  top:-3px;
+  box-shadow:0 6px 0 #555555;
+}
+.button-big:active, .button-big:focus {
+  top:3px;
+  box-shadow:0 6px 0 #e90000;
+}
+
+
+.button-big_localhost{
+ cursor:pointer;
+ outline:0!important;
+ position:relative;
+ opacity:1!important;
+ line-height:1!important;
+ font-style:normal!important;
+ vertical-align:middle;
+ text-shadow:none!important;
+ font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+ text-align:center;
+ font-weight:600!important;
+ text-decoration:none!important;
+ display:inline-block;
+ letter-spacing:0;
+ color:#fff!important;
+ border: 1px solid #e90000!important;
+ background-image:none;
+ background-color:#e90000; /*按鈕*/
+ -webkit-border-radius:4px;
+ border-radius:4px;
+ width:100%;
+ text-align:center;
+ margin-bottom: 1.618rem;
+ margin-top: 1em;
+ -webkit-box-shadow: 0 6px 0 #6e0000;
+ box-shadow: 0 4px 0 #6e0000; /*按鈕陰影*/
+ margin: 0 0 6px 0;
+ top: -1px;
+ }
+
+.button-big_localhost:hover, .button-big_localhost:active, .button-big_localhost:focus {
+  background-color: #e90000;
+}
+
+.button-big_localhost:hover {
+  top:-3px;
+  box-shadow:0 6px 0 #6e0000;
+}
+.button-big_localhost:active, .button-big:focus {
+  top:3px;
+  box-shadow:0 4px 0 #570000;
+}
+
+

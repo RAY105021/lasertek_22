@@ -1,0 +1,793 @@
+/*
+首頁ＣＳＳ內容與框架與動畫拆開
+1.最新消息
+2.全球第一ＳＭＴ解決方案的供應商
+3.公司產品服務
+4.雷科合作客戶
+
+桌機
+@media only screen and (min-width: 1170px) {}
+
+手機
+@media only screen and (max-width: 1169px) {}
+
+主要風格
+
+標準紅 ＃ff0000
+標準藍 ＃00a7ee
+字體 #2e3233;
+
+
+
+*/
+
+.ltt_container {
+background-color: #ffffff;
+position: relative;
+/*top:68%;*/
+margin: -14% 0 0 0;
+}
+
+.ltt_container_img {
+background-color: #ffffff;
+
+}
+
+
+
+/*最新消息灰色色塊*/
+#gray_block {
+  width:1155px;
+  height: 40px;
+  background-color: #f2f2f2;
+  margin: 0px auto;
+  position: relative;
+  top:-40px;
+}
+
+/*最新消息*/
+.ltt_news_all {
+    width:100%;
+    background-color: #f2f2f2;
+    margin: -40px 0 0 0;
+    float:left;
+}
+
+.ltt_news_all02 {
+    width:100%;
+    background-color: #f2f2f2;
+    margin: -40px 0 0 0;
+    float:left;
+}
+
+.ltt_news_content {
+    width:1155px;
+    background-color: #f2f2f2;
+    margin: 0px auto;
+}
+
+.ltt_news_title {
+  width:20%;
+  float:left;
+  padding: 0 0 0 90px;
+
+}
+
+
+.ltt_news_title_h3 {
+  font-size: 2.1em;
+  color: #ff0000;
+  font-weight: 900;
+}
+
+.ltt_news_title_p {
+  color:#000000;
+  font-size: 0.9em;
+  margin: 5px 0 0 0;
+}
+
+
+.ltt_news_content_table {
+  width:80%;
+  float:right;
+  padding: 0px 80px 50px 0px;
+  font-size: 1.6rem;
+}
+
+/* 未連結 */
+.ltt_news_content_table a:link {
+  color:#ad0000;
+}
+/* 已連結過 */
+.ltt_news_content_table a:visited {
+ color:#ad0000;
+}
+  /* 滑鼠移至連結 */
+.ltt_news_content_table a:hover {
+  color:#000000;
+}
+ /* 選擇的連結 */
+.ltt_news_content_table a:active {
+  color:#999999;
+}
+
+
+
+.ltt_news_content_table_date {
+    width:17%;
+    float:left;
+    margin: 0 0 0 15px;
+    letter-spacing: 2px;
+
+}
+
+.ltt_news_content_table_text {
+    width:80%;
+    float:left;
+    line-height: 25px;
+    margin: -3px 0 0 0;
+    letter-spacing: 1.7px;
+}
+
+
+
+
+
+.ltt_news_content_table p {
+  text-align: right;
+  font-size: 1.2rem;
+}
+
+.ltt_news_content_table li {
+    width:100%;
+     float:left;
+     margin: 0 0 20px 0;
+     border-bottom: 1px solid #999999;
+     padding: 0 0 10px 0;
+}
+
+/*CSR*/
+
+.csr_news_content_table {
+  width:100%;
+  float:right;
+  padding: 0px 50px 50px 0px;
+  font-size: 1.6rem;
+}
+
+/* 未連結 */
+.csr_news_content_table a:link {
+  color:#ad0000;
+}
+/* 已連結過 */
+.csr_news_content_table a:visited {
+ color:#ad0000;
+}
+  /* 滑鼠移至連結 */
+.csr_news_content_table a:hover {
+  color:#000000;
+}
+ /* 選擇的連結 */
+.csr_news_content_table a:active {
+  color:#999999;
+}
+
+
+
+
+
+.csr_news_content_table p {
+  text-align: right;
+  font-size: 1.2rem;
+}
+
+.csr_news_content_table li {
+    width:100%;
+     float:left;
+     margin: 0 0 20px 0;
+     border-bottom: 1px solid #999999;
+     padding: 0 0 10px 0;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1169px) {
+
+#gray_block {
+  width:100%;
+  height: 40px;
+  }
+
+.ltt_news_content {
+    width:100%;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 1020px) {
+.ltt_news_title {
+  width:90%;
+  margin: 0 0 20px 0;
+}
+
+.ltt_news_title_h3 {
+  font-size:1.6em;
+}
+
+.ltt_news_title_p {
+  font-size: 1.2em;
+  margin: 0 0 0 3px;
+}
+
+
+
+.ltt_news_content_table {
+  width:90%;
+  font-size: 1em;
+}
+
+
+.ltt_news_title ul li {
+  display: inline;
+}
+
+.ltt_news_content_table_date {
+    width:17%;
+}
+
+.ltt_news_content_table_text { 
+   width:80%;
+   padding: 0em 1em 0em 0.7em ;
+}
+
+.ltt_news_content_table_date_company {
+    width:17%;
+}
+
+.ltt_news_content_table_text_company { 
+   width:80%;
+   padding: 0em 1em 0em 0.7em ;
+}
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 833px) {
+  .ltt_news_content_table {
+    width:90%;
+    font-size: 1em;
+  }
+
+  .csr_news_content_table {
+    width:100%;
+    font-size: 1em;
+  }
+
+
+}
+
+@media only screen and (max-width: 799px) {
+
+  .ltt_news_title {
+  width:100%;
+  padding: 0 0 0 5%;
+}
+
+
+  .ltt_news_content_table {
+  width:95%;
+  float:right;
+  padding: 0px 40px 50px 0px;
+}
+
+.csr_news_content_table {
+  width:100%;
+  float:right;
+  padding: 0px 40px 50px 0px;
+}
+
+
+.ltt_news_content_table_date {
+    width:100%;
+    margin: 0 0 15px 10px;
+    font-size: 1.1em;
+}
+
+.ltt_news_content_table_text { 
+   width:100%;
+   font-size: 1.1em;
+}
+
+.ltt_news_content_table_date_company {
+    width:100%;
+    margin: 0 0 15px 10px;
+    font-size: 1.1em;
+}
+
+.ltt_news_content_table_text_company { 
+   width:100%;
+   font-size: 1.1em;
+}
+
+
+
+
+
+}
+
+
+
+
+
+/*全球第一ＳＭＴ解決方案的供應商*/
+
+.ltt_smt_map_all {
+    width:100%;
+    background-color: #ffffff;
+    float:left;
+    z-index: 3;
+    padding: 0 0 50px 0;
+}
+
+
+.ltt_smt_map_all_gray {
+    width:100%;
+    background-color: #f2f2f2;
+    float:left;
+    padding: 0 0 50px 0;
+}
+
+
+.ltt_smt_map_all_red {
+    width:100%;
+    background-color: #f2f2f2;
+    float:left;
+    padding: 0 0 50px 0;
+}
+
+.ltt_smt_map_all h3,.ltt_smt_map_all_gray h3,.ltt_news_all02 h3 {
+    width:100%;
+    text-align: center;
+    font-size: 3.7rem;
+    color:#676767;
+    margin: 5% 0 25px 0;
+    line-height: 1.2em;
+    padding: 0 20px;
+}
+
+.ltt_smt_map_all_red h3 {
+    width:100%;
+    text-align: center;
+    font-size: 3.7rem;
+    color:#de0000;
+    margin: 5% 0 25px 0;
+    line-height: 1.2em;
+    padding: 0 20px;
+}
+
+.ltt_smt_map_all h4,.ltt_smt_map_all_gray h4,.ltt_news_all02 h4,.ltt_smt_map_all_red h4 {
+    text-align: center;
+    font-size: 1.7rem;
+    color:#676767;
+    margin: 0 0 40px 0;
+    line-height: 1.2em;
+    padding: 0 20px;
+}
+
+.ltt_smt_map_all h4 a:link,.ltt_smt_map_all_gray h4 a:link,.ltt_news_all02 h4 a:link,.ltt_smt_map_all_red h4 a:link {
+    color:#0000ff;
+}
+
+.ltt_smt_map_all h4 a:visited,.ltt_smt_map_all_gray h4 a:visited,.ltt_news_all02 h4 a:visited, .ltt_smt_map_all_red h4 a:link {
+    color:#0000ff;
+}
+
+.ltt_smt_map_all h4 a:hover,.ltt_smt_map_all_gray h4 a:hover,.ltt_news_all02 h4 a:hover, .ltt_smt_map_all_red h4 a:link {
+    color:#ff0000;
+}
+
+.ltt_smt_map_all h4 a:active,.ltt_smt_map_all_gray h4 a:active,.ltt_news_all02 h4 a:active, .ltt_smt_map_all_red h4 a:link {
+    color:#999999;
+}
+
+.ltt_news_content_comment {
+  width:100%;
+  color:#898989;
+  text-align: center;
+  font-size: 2.1rem;
+  margin: 4% 0 35px 0;
+  line-height: 37px; 
+  padding: 0 20px;
+}
+
+
+/*公司產品服務*/
+.ltt_box_content_all {
+  width:1155px;
+  font-size: 1.7rem;
+  margin:0px auto 0 auto;
+}
+
+.ltt_box_product_100 {
+  width:100%;
+  float:left;
+  text-align: center;
+  color:#fff;
+}
+
+.ltt_box_product_50 {
+  width:48%;
+  float:left;
+  text-align: center;
+  color:#fff;
+}
+
+.ltt_box_product_33 {
+  width:31.7%;
+  float:left;
+  text-align: center;
+  color:#fff;
+  margin: 0 5px;
+}
+
+.ltt_box_product_30 {
+  width:30%;
+  float:left;
+  text-align: center;
+  color:#fff;
+  margin: 0 5px;
+}
+
+
+
+.ltt_box_product_right {
+  margin: 0 1% 2% 1%;
+}
+
+.ltt_box_product_bottom {
+  margin: 0 0 2% 0;
+}
+
+.ltt_box_product_img {
+  width:95%;
+  padding: 15px 0;
+}
+
+.ltt_box_product_img_bg {
+  width:94%;
+}
+
+/* 未連結 */
+.ltt_box_product_img a:link {
+  color:#ffffff;
+}
+/* 已連結過 */
+.ltt_box_product_img a:visited {
+ color:#ffffff;
+}
+  /* 滑鼠移至連結 */
+.ltt_box_product_img a:hover {
+  color:#ffea00;
+  opacity: 0.95; 
+  filter: alpha(opacity=60); 
+}
+ /* 選擇的連結 */
+.ltt_box_product_img a:active {
+  color:#999999;
+}
+
+.ltt_box_product_img02 {
+  width:95%;
+  padding: 15px 0;
+}
+
+.ltt_box_product_img02 a {
+  font-size: 2.3rem;
+}
+
+/* 未連結 */
+.ltt_box_product_img02 a:link {
+  color:#000;
+}
+/* 已連結過 */
+.ltt_box_product_img02 a:visited {
+ color:#000;
+}
+  /* 滑鼠移至連結 */
+.ltt_box_product_img02 a:hover {
+  color:#ad43c5;
+  opacity: 0.4; 
+  filter: alpha(opacity=40); 
+}
+ /* 選擇的連結 */
+.ltt_box_product_img02 a:active {
+  color:#999999;
+}
+
+
+.ltt_box_product_description {
+  width:95%;
+  height: 4.4em;
+  text-align: center;
+  padding: 10px 5px;
+  color: #4e4e4e;
+  line-height: 1.4em;
+}
+
+/* 未連結 */
+.ltt_box_product_description a:link {
+  color:#0000ff;
+}
+/* 已連結過 */
+.ltt_box_product_description a:visited {
+ color:#0000ff;
+}
+  /* 滑鼠移至連結 */
+.ltt_box_product_description a:hover {
+  color:#ff0000;
+}
+ /* 選擇的連結 */
+.ltt_box_product_description a:active {
+  color:#999999;
+}
+
+/*----202104新增修改版面----*/
+.ltt_box_bgcolor {
+  width: 100%;
+}
+
+ltt_box_bgcolor_bg {
+  z-index: 5;
+  color: #198bff;
+  position: relative;
+}
+
+.ltt_box_bgcolor_title {
+  z-index: 10;
+  position:absolute;
+  margin: 25px 0 0 25px;
+  font-weight: 800;
+}
+
+.ltt_box_bgcolor_img {
+  z-index: 8;
+  position:absolute;
+  margin: 25px 0 0 5px;
+}
+
+.ltt_box_bgcolor_img img {
+  width: 86%;
+  margin: 22px 0 0 20px;
+}
+
+.ltt_box_bgcolor_white_bg {
+  background-color: #fff;
+  color: #000;
+  height: 135px;
+  padding: 52px 0 0 0;
+}
+
+.ltt_box_bgcolor_white_bg_left {
+  text-align: left;
+  width:48.5%;
+  float:left;
+  padding: 0 0 0 15px;
+  line-height: 20px;
+}
+
+.ltt_box_bgcolor_white_bg_left h5 {
+  font-size: 0.9em;
+}
+
+.ltt_box_bgcolor_white_bg_right {
+  text-align: right;
+  width:48.5%;
+  float:right;
+  padding: 45px 15px 0 0;
+}
+
+/* 未連結 */
+.ltt_box_bgcolor_white_bg_right a:link {
+  color:#0000ff;
+}
+/* 已連結過 */
+.ltt_box_bgcolor_white_bg_right a:visited {
+ color:#0000ff;
+}
+  /* 滑鼠移至連結 */
+.ltt_box_bgcolor_white_bg_right a:hover {
+  color:#ff0000;
+}
+ /* 選擇的連結 */
+.ltt_box_bgcolor_white_bg_right a:active {
+  color:#999999;
+}
+
+
+.ltt_box_bgcolor_01 {
+  background: linear-gradient(360deg, #C402B4 50%, #97018B 0%);
+  background: -moz-linear-gradient(360deg, #C402B4 50%, #97018B 0%);
+  background: -webkit-linear-gradient(360deg, #C402B4 50%, #97018B 0%);
+  background: -o-linear-gradient(360deg, #C402B4 50%, #97018B 0%); 
+}
+
+.ltt_box_bgcolor_02 {
+  background: linear-gradient(360deg, #813101 50%, #5D2300 0%);
+  background: -moz-linear-gradient(360deg, #813101 50%, #5D2300 0%);
+  background: -webkit-linear-gradient(360deg, #813101 50%, #5D2300 0%);
+  background: -o-linear-gradient(360deg, #813101 50%, #5D2300 0%); 
+}
+
+.ltt_box_bgcolor_03 {
+  background: linear-gradient(360deg, #012B97 50%, #001C64 0%);
+  background: -moz-linear-gradient(360deg, #012B97 50%, #001C64 0%);
+  background: -webkit-linear-gradient(360deg, #012B97 50%, #001C64 0%);
+  background: -o-linear-gradient(360deg, #012B97 50%, #001C64 0%); 
+
+  
+}
+
+.ltt_box_bgcolor_04 {
+  background: linear-gradient(360deg, #299400 50%, #237d00 0%);
+  background: -moz-linear-gradient(360deg, #299400 50%, #237d00 0%);
+  background: -webkit-linear-gradient(360deg, #299400 50%, #237d00 0%);
+  background: -o-linear-gradient(360deg, #299400 50%, #237d00 0%); 
+}
+
+
+@media only screen and (max-width: 1169px) { 
+  /*公司產品服務*/
+.ltt_box_content_all {
+  width:97%;
+  margin: 0 2% 5% 1.2%;
+}
+
+
+
+
+}
+
+
+@media only screen and (max-width: 799px) { 
+.ltt_smt_map_all h3,.ltt_smt_map_all_gray h3,.ltt_news_all02 h3,.ltt_smt_map_all_red h3 {
+    color:#0000ff;
+}
+
+.ltt_smt_map_all h4,.ltt_smt_map_all_gray h4,.ltt_news_all02 h4,.ltt_smt_map_all_red h4 {
+    color:#198bff;
+}
+
+.ltt_box_bgcolor_white_bg_left h5 {
+  font-size: 0.7em;
+}
+
+.ltt_box_product_30 {
+  width:48%;
+  margin: 0 5px;
+}
+
+}
+
+
+
+@media only screen and (max-width: 699px) { 
+.ltt_box_product_33 {
+  width:48%;
+}
+
+.ltt_smt_map_all h3,.ltt_smt_map_all_gray h3,.ltt_news_all02 h3 {
+    font-size: 2.9rem;
+}
+
+}
+
+@media only screen and (max-width:599px) { 
+.ltt_box_bgcolor_white_bg {
+  margin: 10px 0 0 0;
+}
+
+.ltt_box_bgcolor_white_bg_left {
+  line-height: 18px;
+}
+
+.ltt_box_bgcolor_white_bg_left h5 {
+  font-size: 0.6em;
+}
+
+.ltt_box_bgcolor_white_bg_right a {
+  font-size: 0.6em;
+}
+
+.ltt_smt_map_all h3,.ltt_smt_map_all_gray h3,.ltt_news_all02 h3 {
+    font-size: 2.7rem;
+}
+
+.ltt_box_product_30 {
+  width:98%;
+  margin: 0 5px;
+}
+
+
+}
+
+
+
+
+@media only screen and (max-width: 499px) { 
+.ltt_box_product_50, .ltt_box_product_33 {
+  width:99%;
+}
+
+.ltt_box_content_all {
+  margin: 0 0 0 8px;
+}
+
+.ltt_box_bgcolor_white_bg_left h5 {
+  font-size: 0.85em;
+}
+
+.ltt_box_bgcolor_white_bg_right a {
+  font-size: 0.75em;
+}
+
+.ltt_smt_map_all h3,.ltt_smt_map_all_gray h3,.ltt_news_all02 h3 {
+    font-size: 2.3rem;
+}
+
+}
+
+
+/*雷科合作客戶*/
+.ltt_box_product_25 {
+  width:23%;
+  float:left;
+  text-align: center;
+  color:#fff;
+  font-size: 1.7em;
+}
+
+.ltt_box_product_25 p {
+  line-height:7em;
+  margin: auto;
+}
+
+.ltt_box_product_25 div {
+  height:8em;
+  line-height:1em;
+  margin:0 auto;
+  padding: 5%;
+  line-height:4rem;
+  font-size: 2rem;
+}
+
+.ltt_box_bgcolor_05 {
+  background: linear-gradient(360deg, #AEAEAE 50%, #9C9C9C 0%);
+  background: -moz-linear-gradient(360deg, #AEAEAE 50%, #9C9C9C 0%);
+  background: -webkit-linear-gradient(360deg, #AEAEAE 50%, #9C9C9C 0%);
+  background: -o-linear-gradient(360deg, #AEAEAE 50%, #9C9C9C 0%); 
+}
+
+
+@media only screen and (max-width: 499px) { 
+.ltt_box_product_25 {
+  width:100%;
+  font-size: 1.3em;
+}
+  
+}
+
+
+

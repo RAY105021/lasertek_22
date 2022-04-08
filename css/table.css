@@ -1,0 +1,464 @@
+
+/* ---- Table ---- */
+
+table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1.5rem;
+	}
+	
+
+	table td,
+	table th {
+		padding:15px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+		
+	thead th {
+		background:#91c5d4;
+		}
+			
+	thead th[colspan],
+	thead th[rowspan] {
+			background:#66a9bd;
+			}
+		
+	tbody th,
+	tfoot th {
+		text-align: center;
+		background:#83c1d3;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size: 1.6rem;
+		}
+
+
+		
+	tbody td,
+	tfoot td {
+		text-align:center;
+		background:#d5eaf0;
+		color: #40879c;
+		vertical-align:super;
+		font-size: 1.5rem;
+		line-height: 25px;
+		}
+
+	tbody td:hover,
+	tfoot td:hover {
+		text-align:center;
+		background:#5b5b5b;
+		color: #fff;
+		}
+	
+	tbody td a:link,
+	tfoot td a:link {
+		text-align:center;
+
+		color: #ff0000;
+		vertical-align:super;
+		font-size: 1.5rem;
+		}
+
+	tbody td a:visited,
+	tfoot td a:visited {
+		text-align:center;
+
+		color: #ff0000;
+		vertical-align:super;
+		font-size: 1.5rem;
+		}
+
+	tbody td a:hover,
+	tfoot td a:hover {
+		text-align:center;
+
+		color: #fff;
+		vertical-align:super;
+		font-size: 1.5rem;
+		}
+
+	tbody td a:active,
+	tfoot td a:active {
+		text-align:center;
+		color: #0517ff;
+		vertical-align:super;
+		font-size: 1.5rem;
+		}
+
+	tbody td li,
+	tfoot td li {
+		text-align: left;
+		list-style-type:disc;
+		}	
+
+    tbody td li:hover,
+	tfoot td li:hover{
+		border-bottom: 1px solid #fff;
+		}
+
+	
+
+/*上標符號 <sup>加入數字<sup/>*/
+	tbody td sup,
+	tfoot td sup{
+		vertical-align:super;
+		}	
+		
+	tfoot th {
+		vertical-align:middle;
+		background:#b0cc7f;
+		}
+		
+	tfoot td {
+		background:#d7e1c5;
+		font-weight:bold;
+		
+		}
+			
+	tbody tr.odd td { 
+		background:#bcd9e1;
+		}
+
+
+table ul {
+	text-align:left;
+}
+
+table li {
+	line-height: 2.3rem;
+	list-style-type: decimal;
+	margin: 5px 0 0 15px;
+}
+
+table ul p {
+	color:#000;
+}
+
+
+
+/**第二組 表格**/
+
+.company_table_left table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1.5rem;
+	}
+	
+
+.company_table_left  table td,
+.company_table_left  table th {
+		padding:15px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+		
+.company_table_left thead th {
+		background:#91c5d4;
+		}
+			
+.company_table_left thead th[colspan],
+.company_table_left thead th[rowspan] {
+			background:#66a9bd;
+			}
+		
+.company_table_left tbody th,
+.company_table_left tfoot th {
+		text-align: center;
+		background:#83c1d3;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size: 1.6rem;
+		line-height: 21px;
+		}
+		
+.company_table_left tbody td,
+.company_table_left tfoot td {
+		text-align:left;
+		background:#d5eaf0;
+		color: #40879c;
+		vertical-align:super;
+		font-size: 1.5rem;
+		line-height: 21px;
+        word-break: normal;
+		}
+
+.company_table_left tbody td:hover,
+.company_table_left tfoot td:hover {
+		text-align:left;
+		background:#5b5b5b;
+		color: #fff;
+		}
+	
+.company_table_left tbody td a:link,
+.company_table_left tfoot td a:link {
+		text-align:center;
+
+		color: #ff0000;
+		vertical-align: bottom;
+		font-size: 1.5rem;
+		}
+
+.company_table_left tbody td a:visited,
+.company_table_left tfoot td a:visited {
+		text-align:center;
+
+		color: #ff0000;
+		vertical-align: bottom;
+		font-size: 1.5rem;
+		}
+
+.company_table_left tbody td a:hover,
+.company_table_left tfoot td a:hover {
+		text-align:center;
+
+		color: #fff;
+		vertical-align: bottom;
+		font-size: 1.5rem;
+		}
+
+.company_table_left tbody td a:active,
+.company_table_left tfoot td a:active {
+		text-align:center;
+		color: #0517ff;
+		vertical-align: bottom;
+		font-size: 1.5rem;
+		}
+
+.company_table_left tbody td li,
+.company_table_left tfoot td li {
+		text-align: left;
+		list-style-type:disc;
+		}	
+
+.company_table_left tbody td li:hover,
+.company_table_left tfoot td li:hover{
+		border-bottom: 1px solid #fff;
+		}
+
+	
+
+/*上標符號 <sup>加入數字<sup/>*/
+.company_table_left tbody td sup,
+.company_table_left tfoot td sup{
+		vertical-align:super;
+		}	
+		
+.company_table_left tfoot th {
+		vertical-align:middle;
+		background:#b0cc7f;
+		}
+		
+.company_table_left tfoot td {
+		background:#d7e1c5;
+		font-weight:bold;
+		
+		}
+			
+.company_table_left tbody tr.odd td { 
+		background:#bcd9e1;
+		}
+
+
+.company_table_left table ul {
+	text-align:left;
+}
+
+.company_table_left table li {
+	line-height: 2.3rem;
+	list-style-type: decimal;
+	margin: 5px 0 0 15px;
+}
+
+.company_table_left table ul p {
+	color:#000;
+}
+
+
+/**表格底色**/
+
+	
+@media only screen and (max-width: 499px) { 
+	table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1rem;
+	}
+	
+
+	table td,
+	table th {
+		padding:5px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+
+
+    tbody th,
+	tfoot th {
+		text-align: center;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size: 1.4rem;
+		}
+
+	tbody td,
+	tfoot td {
+		font-size: 1.1rem;
+		}
+
+	tbody td a:link,
+	tfoot td a:link {
+		
+		font-size: 1.1rem;
+		}
+
+	tbody td a:visited,
+	tfoot td a:visited {
+	
+		font-size: 1.1rem;
+		}
+
+	tbody td a:hover,
+	tfoot td a:hover {
+	
+		font-size: 1.1rem;
+		}
+
+	tbody td a:active,
+	tfoot td a:active {
+		
+		font-size: 1.1rem;
+		}
+
+	/*第二組表格*/
+.company_table_left table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1rem;
+	}
+	
+
+.company_table_left table td,
+.company_table_left table th {
+		padding:5px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+
+.company_table_left tbody th,
+.company_table_left tfoot th {
+		text-align: center;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size: 1.4rem;
+		}
+
+.company_table_left tbody td,
+.company_table_left tfoot td {
+		font-size: 1.1rem;
+		x
+		}
+
+.company_table_left tbody td a:link,
+.company_table_left tfoot td a:link {
+		
+		font-size: 1.1rem;
+		}
+
+.company_table_left tbody td a:visited,
+.company_table_left tfoot td a:visited {
+	
+		font-size: 1.1rem;
+		}
+
+.company_table_left tbody td a:hover,
+.company_table_left tfoot td a:hover {
+	
+		font-size: 1.1rem;
+		}
+
+.company_table_left tbody td a:active,
+.company_table_left tfoot td a:active {
+		font-size: 1.1rem;
+		}
+}
+
+
+@media only screen and (max-width: 399px) { 
+	table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1rem;
+	}
+	
+
+	table td,
+	table th {
+		padding:5px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+
+
+    tbody th,
+	tfoot th {
+		text-align: center;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size:1.2rem;
+		}
+
+	tbody td,
+	tfoot td {
+		text-align:center;
+		color: #40879c;
+		vertical-align:super;
+		font-size:1rem;
+		}
+
+	/*第二組表格*/
+.company_table_left table {
+	margin-bottom:3em;
+	width:100%;
+	font-size:1rem;
+	}
+	
+
+.company_table_left table td,
+.company_table_left table th {
+		padding:5px;
+		border:1px solid #fff;
+		border-width:0 0.2em 0.2em 0;
+		word-break: break-all;
+		}
+
+
+.company_table_left tbody th,
+.company_table_left tfoot th {
+		text-align: center;
+		font-weight: 500;
+		color:#fff;
+		vertical-align: middle;
+		font-size:1.2rem;
+		}
+
+.company_table_left tbody td,
+.company_table_left tfoot td {
+		text-align:center;
+		color: #40879c;
+		vertical-align:super;
+		font-size:1rem;
+		}
+}

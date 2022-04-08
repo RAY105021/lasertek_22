@@ -1,0 +1,783 @@
+/*雷射首頁產品*/
+
+/* -------------------------------- 
+
+主要風格
+
+標準紅 ＃ff0000
+標準藍 ＃00a7ee
+字體 #2e3233;
+
+修改權需要注意 ： 
+@media only screen and (min-width: 1170px)  桌機範圍
+@media only screen and (max-width: 1169px) 手機範圍
+
+-------------------------------- */
+
+
+.ltt_box_laser_01 {
+  background: linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -moz-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -webkit-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -o-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+}
+
+.ltt_box_laser_02 {
+ background: linear-gradient(360deg, #941fae 50%, #85199d 0%);
+  background: -moz-linear-gradient(360deg, #941fae 50%, #85199d 0%);
+  background: -webkit-linear-gradient(360deg, #941fae 50%, #85199d 0%);
+  background: -o-linear-gradient(360deg, #941fae 50%, #85199d 0%);
+}
+
+.ltt_box_laser_03 {
+  background: linear-gradient(360deg, #ad43c5 50%, #9d3cb2 0%);
+  background: -moz-linear-gradient(360deg, #ad43c5 50%, #9d3cb2 0%);
+  background: -webkit-linear-gradient(360deg, #ad43c5 50%, #9d3cb2 0%);
+  background: -o-linear-gradient(360deg, #ad43c5 50%, #9d3cb2 0%); 
+}
+
+.ltt_box_laser_04 {
+  background: linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -moz-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -webkit-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+  background: -o-linear-gradient(360deg, #6b0182 50%, #560069 0%);
+}
+
+
+.ltt_box_laser_05 {
+  background: linear-gradient(360deg, #fff 50%, #fff 0%);
+  background: -moz-linear-gradient(360deg, #fff 50%, #fff 0%);
+  background: -webkit-linear-gradient(360deg, #fff 50%, #fff 0%);
+  background: -o-linear-gradient(360deg, #fff 50%, #fff 0%);
+}
+
+
+.ltt_box_smt_01 {
+  background: linear-gradient(360deg, #2f59c4 50%, #173fa5 0%);
+  background: -moz-linear-gradient(360deg, #2f59c4 50%, #173fa5 0%);
+  background: -webkit-linear-gradient(360deg, #2f59c4 50%, #173fa5 0%);
+  background: -o-linear-gradient(360deg, #2f59c4 50%, #173fa5 0%);
+}
+
+.ltt_box_smt_02 {
+ background: linear-gradient(360deg, #244fb9 50%, #0130a7 0%);
+  background: -moz-linear-gradient(360deg, #244fb9 50%, #0130a7 0%);
+  background: -webkit-linear-gradient(360deg, #244fb9 50%, #0130a7 0%);
+  background: -o-linear-gradient(360deg, #244fb9 50%, #0130a7 0%);
+}
+
+
+.ltt_box_smd_01 {
+  background: linear-gradient(360deg, #412e22 50%, #4b382d 0%);
+  background: -moz-linear-gradient(360deg, #412e22 50%, #4b382d 0%);
+  background: -webkit-linear-gradient(360deg, #412e22 50%, #4b382d 0%);
+  background: -o-linear-gradient(360deg, #412e22 50%, #4b382d 0%);
+}
+
+.ltt_box_smd_02 {
+ background: linear-gradient(360deg, #362e2b 50%, #4d3c36 0%);
+  background: -moz-linear-gradient(360deg, #362e2b 50%, #4d3c36 0%);
+  background: -webkit-linear-gradient(360deg, #362e2b 50%, #4d3c36 0%);
+  background: -o-linear-gradient(360deg, #362e2b 50%, #4d3c36 0%);
+}
+
+.ltt_box_energy_01 {
+  background: linear-gradient(360deg, #188960 50%, #25905f 0%);
+  background: -moz-linear-gradient(360deg, #188960 50%, #25905f 0%);
+  background: -webkit-linear-gradient(360deg, #188960 50%, #25905f 0%);
+  background: -o-linear-gradient(360deg, #188960 50%, #25905f 0%);
+}
+
+.ltt_box_energy_02 {
+ background: linear-gradient(360deg, #2c9974 50%, #009864 0%);
+  background: -moz-linear-gradient(360deg, #2c9974 50%, #009864 0%);
+  background: -webkit-linear-gradient(360deg, #2c9974 50%, #009864 0%);
+  background: -o-linear-gradient(360deg, #2c9974 50%, #009864 0%);
+}
+
+.ltt_box_energy_03 {
+  background: linear-gradient(360deg, #037d4b 50%, #008951 0%);
+  background: -moz-linear-gradient(360deg, #037d4b 50%, #008951 0%);
+  background: -webkit-linear-gradient(360deg, #037d4b 50%, #008951 0%);
+  background: -o-linear-gradient(360deg, #037d4b 50%, #008951 0%);
+ 
+}
+
+.ltt_box_energy_04 {
+ background: linear-gradient(360deg, #188960 50%, #048153 0%);
+  background: -moz-linear-gradient(360deg, #188960 50%, #048153 0%);
+  background: -webkit-linear-gradient(360deg, #188960 50%, #048153 0%);
+  background: -o-linear-gradient(360deg, #188960 50%, #048153 0%);
+}
+
+.ltt_box_product_directions {
+  color:#000;
+  padding: -20px 0 15px 0;
+  text-align: left;
+}
+
+.ltt_box_product_directions h5 {
+  font-size: 4rem;
+  color: blue;
+  font-weight: 700;
+   border-bottom: 1px solid #000;
+   padding: 10px 0 20px 0;
+}
+
+
+
+
+
+
+/*------ 上下頁目錄選單------*/
+
+.ltt_page_down_all {
+  width:100%;
+  margin: 0 0 10px 0;
+}
+
+
+
+#ltt_page_down {
+  width:330px;
+  height:70px;
+  filter:alpha(opacity=90);
+  -moz-opacity:0.9;
+  -khtml-opacity: 0.9;
+  opacity: 0.9;
+  margin:0 auto ;
+
+}
+
+#ltt_page_down a {
+  display:block;
+  width:35px;
+  height:35px;
+  text-indent:-9999px;
+  background:url(../img/list.svg) no-repeat;
+  cursor:pointer;
+  margin:30px 20px 1px 25px;
+  float:left;
+ 
+}
+
+
+
+#ltt_page_down .ltt_page_down_next {
+  background-position:0 -35px;
+  
+  
+}
+
+#ltt_page_down .ltt_page_down_next:hover {
+   background-position:-35px 0;
+   
+}
+
+#ltt_page_down .ltt_page_down_last {
+  background-position:0 0 ;
+
+ 
+ 
+}
+
+#ltt_page_down .ltt_page_down_last:hover {
+   background-position:-35px -35px;
+ 
+}
+
+
+#ltt_page_down .ltt_page_down_contents {
+  background-position:0 -70px;
+   
+}
+
+#ltt_page_down .ltt_page_down_contents:hover {
+  background-position:-35px -70px;
+
+}
+
+#ltt_page_down .ltt_page_down_download {
+  background-position:0 -105px;
+  
+}
+
+#ltt_page_down .ltt_page_down_download:hover {
+   background-position:-35px -105px;
+}
+
+
+.ltt_page_down_all_up {
+  width:100%;
+  margin: 2% 0 5% 0;
+  float:left;
+}
+
+
+#ltt_page_down_up {
+  width:330px;
+  height:70px;
+  filter:alpha(opacity=90);
+  -moz-opacity:0.9;
+  -khtml-opacity: 0.9;
+  opacity: 0.9;
+  margin:20px auto ;
+}
+
+#ltt_page_down_up a {
+  display:block;
+  width:35px;
+  height:35px;
+  text-indent:-9999px;
+  background:url(../img/list.svg) no-repeat;
+  cursor:pointer;
+  margin:-10px 20px 1px 25px;
+  float:left;
+}
+
+
+
+#ltt_page_down_up .ltt_page_down_last {
+  background-position:0 0 ;
+ 
+}
+
+#ltt_page_down_up .ltt_page_down_last:hover {
+   background-position:-35px -35px;
+}
+
+#ltt_page_down_up .ltt_page_down_next {
+  background-position:0 -35px;
+  
+}
+
+#ltt_page_down_up .ltt_page_down_next:hover {
+   background-position:-35px 0;
+}
+
+#ltt_page_down_up .ltt_page_down_contents {
+  background-position:0 -70px;
+ 
+}
+
+#ltt_page_down_up .ltt_page_down_contents:hover {
+  background-position:-35px -70px;
+}
+
+#ltt_page_down_up .ltt_page_down_download {
+  background-position:0 -105px;
+ 
+}
+
+#ltt_page_down_up .ltt_page_down_download:hover {
+   background-position:-35px -105px;
+}
+
+
+.ltt_page_color {
+  width: 115%;
+  padding: 1.3% 8% 1.5% 12%;
+  background-color: #e0e0e0;
+  margin: 0 0 0 -75px;
+}
+
+.ltt_page_color p {
+  width:100%;
+  font-size: 2rem;
+  font-weight: 700;
+  padding: 4% 0;
+}
+
+.ltt_page_text {
+  margin: 2% 0 4% 0;
+}
+
+.ltt_page_text_span {
+  font-weight: 900;
+  margin: 0 0 0 -10px;
+  font-size: 1.5rem;
+  color: #0048ff;
+
+}
+
+.ltt_page_text_color {
+  border-bottom:1px solid #999999;
+  font-size: 1.3rem;
+  line-height: 22px;
+}
+
+/*新增符號 li*/
+.ltt_page_text li {
+  font-size: 1.7rem;
+  margin: 0 0 1.7% 3px;
+}
+
+.ltt_page_text li::before {
+  content: "→"; 
+  color: red;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -0.5em;
+  margin-right: 0.3em;
+}
+
+.ltt_page_text_li_samp {
+  line-height: 23px;
+}
+
+.ltt_page_text_li_service {
+  line-height: 23px;
+}
+
+
+
+
+
+
+
+/*麵包屑*/
+#breadcrumbs  {
+  width:100%;
+  color: #7c7c7c;
+  font-size: 1.4rem;
+  padding: 15px;
+  line-height: 25px;
+}
+
+
+#breadcrumbs ul li {
+  display: inline;
+}
+
+/* 未連結 */
+#breadcrumbs a:link {
+  color:#999999;
+}
+/* 已連結過 */
+#breadcrumbs a:visited {
+ color:#999999;
+}
+  /* 滑鼠移至連結 */
+#breadcrumbs a:hover {
+  color:#000000;
+}
+ /* 選擇的連結 */
+#breadcrumbs a:active {
+  color:#999999;
+}
+
+.product_menu {
+  float:left;
+  width:100%;
+  margin: 0 0 40px 0;
+}
+
+.product_menu_ul {
+  width:1155px;
+  margin: 10px auto;
+}
+
+.product_menu ul li {
+  display: inline;
+}
+
+.product_menu_select {
+  width:125px;
+  float:right;
+}
+
+.product_menu_select_200 {
+  width:190px;
+  float:right;
+}
+
+.product_select20 {
+  width:19%;
+  float:left;
+  text-align: center;
+} 
+
+.product_select25 {
+  width:24%;
+  float:left;
+  text-align: center;
+} 
+
+.product_select40 {
+  width:39%;
+  float:left;
+  text-align: center;
+} 
+
+.product_select33 {
+  width:32%;
+  float:left;
+  text-align: center;
+} 
+
+.product_select50 {
+  width:49%;
+  float:left;
+  text-align: center;
+
+} 
+
+.product_select60 {
+  width:59%;
+  float:left;
+  text-align: center;
+} 
+
+.product_select75 {
+  width:74%;
+  float:left;
+  text-align: center;
+
+} 
+
+.product_select100 {
+  width:99%;
+  float:left;
+  text-align: center;
+} 
+
+
+.product_menu_light {
+  background-color:#ad43c5 ;
+}
+
+.product_menu_deep {
+  background-color:#6b0182 ;
+}
+
+.product_menu_light_smt {
+  background-color:#0088cf ;
+}
+
+.product_menu_deep_smt {
+  background-color:#2f67ad ;
+}
+
+.product_menu_light_smd {
+  background-color:#592e01 ;
+}
+
+.product_menu_deep_smd {
+  background-color:#362e2b ;
+}
+
+.product_menu_light_energy {
+  background-color:#01af68 ;
+}
+
+.product_menu_deep_energy {
+  background-color:#006c40 ;
+}
+
+.product_menu_light_service {
+
+  min-height: 60px;
+}
+
+.product_menu_width {
+  margin: 0 10px 10px 0;
+}
+
+.product_menu_table {
+ width:100%; 
+}
+
+.product_menu_table_img {
+  width:40%;
+  float:left;
+  text-align: center;
+}
+
+.product_menu_table_img img {
+  width:75%;
+ 
+}
+
+.product_menu_table_select {
+  width:57%;
+  float:left;
+  text-align: center;
+}
+
+.product_menu_table_img_service {
+  width:30%;
+  float:left;
+  text-align: center;
+ 
+}
+
+.product_menu_table_img_service img {
+  padding: 10px 8px 8px 8px;
+}
+
+
+.typeface_bold_white {
+  font-size: 1.7rem;
+  font-weight: 500;
+  color:#fff;
+  padding: 5.2% 0;
+  line-height:2rem;
+}
+
+
+.typeface_bold_white_service {
+   width: 100%;
+   height:40px;
+   font-size: 1.70rem;
+   margin: 12.6% 0 0 0;
+}
+
+
+
+/* 未連結 */
+.typeface_bold_white_service  a:link {
+  color:#fff;
+}
+/* 已連結過 */
+.typeface_bold_white_service  a:visited {
+ color:#fff;
+}
+  /* 滑鼠移至連結 */
+.typeface_bold_white_service  a:hover {
+  color:#fff;
+}
+ /* 選擇的連結 */
+.typeface_bold_white_service  a:active {
+  color:#999999;
+}
+
+
+
+.product_menu_select select {
+  width: 97%;
+  font-size: 1.5rem;
+}
+
+.product_menu_select_200 select {
+  width: 97%;
+  font-size: 1.5rem;
+}
+
+.product_menu_select_class {
+  font-weight: 900;
+  color: #0000ff;
+}
+
+.product_menu_select_class samp {
+  padding: 10px 5px;
+
+}
+
+
+/*-----------select------------*/
+.select-css {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.7;
+    padding: .3rem 1.4em .3rem .8em;
+    width: 100%;
+    max-width: 100%; 
+    box-sizing: border-box;
+    margin: 0;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+    border-radius: .5em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+      linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+    background-size: .65em auto, 100%;
+}
+.select-css::-ms-expand {
+    display: none;
+}
+.select-css:hover {
+    border-color: #888;
+}
+.select-css:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: #222; 
+    outline: none;
+}
+.select-css option {
+    font-weight:normal;
+}
+
+
+/*產品特性*/
+.product_features_tetx {
+  color: #000;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.product_features_tetx_img {
+  width:100%;
+  background-color: #f1f1f1;
+  border: #999999 1px solid; 
+}
+
+/*產品特性--表格插入圖片*/
+.product_features_tetx_table_img {
+  width:100%;
+  text-align:center;
+}
+
+.product_features_tetx_table_img img {
+  width:50%;
+}
+
+
+.product_features_type {
+  width: 100%;
+  height:5.5rem;
+  float:left;
+  text-align: center;
+  line-height:1.3em;
+  margin: 15px 0 0 0;
+}
+
+/* 未連結 */
+.product_features_type a:link {
+  color:#0000ff;
+}
+/* 已連結過 */
+.product_features_type a:visited {
+ color:#0000ff;
+}
+  /* 滑鼠移至連結 */
+.product_features_type a:hover {
+  color:#000000;
+}
+ /* 選擇的連結 */
+.product_features_type a:active {
+  color:#999999;
+}
+
+
+@media only screen and (max-width: 1169px) {
+  .product_menu_ul {
+  width:100%;
+  }
+
+  .product_menu_width {
+  margin: 0 0.85% 0.85% 0;
+  }
+
+  .product_select20 {
+  width:19%;
+  float:left;
+  text-align: center;
+ } 
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 799px) {
+  .product_menu {
+  margin: 0 0 30px 9px;
+}
+
+  .product_menu_table_img {
+    display:none;
+  }
+
+  .product_menu_table_img_service {
+  display:none;
+}
+
+.product_menu_select {
+  width:100%;
+}
+
+.product_menu_select_200 {
+  width:100%;
+}
+
+  .product_menu_table_select {
+    width:100%;
+  }
+
+  .select-css {
+    padding: 10px 0;
+    margin: 0 0 2px 2px;
+  }
+
+
+  .ltt_page_color {
+  width: 100%;
+  padding: 1% 0 1% 2%;
+  background-color: #e0e0e0;
+  margin: -30px 0 0 -10px;
+}
+
+.ltt_page_color p {
+  width:100%;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 4% 0;
+}
+
+#ltt_page_down {
+    margin:30px 0 0 0;
+}
+
+#ltt_page_down a {
+  margin:-10px 10px 1px 15px;
+}
+
+  .product_select20 {
+  width:18%;
+  float:left;
+  text-align: center;
+ } 
+
+
+
+}
+
+
+@media only screen and (max-width: 499px) { 
+
+
+
+.typeface_bold_white,.typeface_bold_white_service {
+  font-size: 1.3rem;
+  padding: 5.2% 0;
+}
+
+ .select-css {
+    padding: 5px 0;
+  }
+
+.ltt_box_product_directions {
+  margin: 0 0 0 23px;
+}
+
+
+.ltt_box_laser_01,.ltt_box_laser_02,.ltt_box_laser_03,.ltt_box_laser_04,.ltt_box_laser_05 {
+  margin: 0 0 0 10px;
+}
+
+
+}
+
+
