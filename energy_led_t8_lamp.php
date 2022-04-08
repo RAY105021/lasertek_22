@@ -101,17 +101,17 @@
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class"><samp>LED燈具系列 ALL</samp></option>
                                                     <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php" selected="true"> • LED T8燈管</option>
+                                                    <option value="energy_led_t8_lamp.php" selected="true"> • LED高效T8燈管</option>
                                                     <option value="energy_led_t5_electronic.php"> • LED電子式T5燈管</option>
                                                     <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
                                                     <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED投射燈</option>
-                                                    <option value="energy_led_fish_light.php"> • LED投射燈(無紫外線)</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_fish_light.php"> • LED COB投射燈</option>
                                                     <option value="energy_led_big_bulb_light.php"> • LED各式球泡燈</option>
                                                     <option value="energy_led_recessed_light.php"> • LED崁燈</option>
-                                                    <option value="energy_led_chandelier_high_power.php"> • 高功率LED崁燈</option>
+                                                    <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
                                                     <option value="energy_led_ar111.php"> • LED AR111 </option>
                                                 </select>
                                             </li>
@@ -183,7 +183,7 @@
                 <div class="ltt_box_content_all">
                     <div class="wow slideInLeft ltt_box_product_50 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <img class="ltt_box_product_img" src="img/energy/product_thick_film16.png" alt="LED T8燈管">
+                            <img class="ltt_box_product_img" src="img/energy/product_thick_film16.png" alt="LED高效T8燈管">
                         </div>
 
                     </div>
@@ -198,7 +198,7 @@
                                 </div>
                             </div>
                             <div class="ltt_page_color">
-                                <h5>LED T8燈管</h5>
+                                <h5>LED高效T8燈管</h5>
 
                             </div>
                             <ul class="ltt_page_text">
@@ -225,7 +225,7 @@
                 <div class="ltt_box_content_all">
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
                         <img class="product_features_tetx_img" src="img/energy/product_thick_film16.png" alt="LED-T8">
-                        <samp class="product_features_type">LED T8燈管</samp>
+                        <samp class="product_features_type">LED高效T8燈管</samp>
                     </div>
 
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">

@@ -119,17 +119,17 @@
                                                     <option value="#">選擇產品</option>
                                                     <option value="energy_led_indoo_light.php" class="product_menu_select_class" selected="true"><samp>LED燈具系列 ALL</samp></option>
                                                     <option value="energy_led_clean_room.php"> • 半導體無塵室專用LED黃光燈管</option>
-                                                    <option value="energy_led_t8_lamp.php"> • LED T8燈管</option>
+                                                    <option value="energy_led_t8_lamp.php"> • LED高效T8燈管</option>
                                                     <option value="energy_led_t5_electronic.php"> • LED電子式T5燈管</option>
                                                     <option value="energy_led_t5_laminate.php"> • LED T5層板串接燈管</option>
                                                     <option value="energy_led_panel_light.php"> • LED超薄高效平板燈</option>
                                                     <option value="energy_led_grille_lam.php"> • LED格柵燈</option>
                                                     <option value="energy_led_patio_lights.php"> • LED天井燈</option>
-                                                    <option value="energy_led_projection_light.php"> • LED投射燈</option>
-                                                    <option value="energy_led_fish_light.php"> • LED投射燈(無紫外線)</option>
+                                                    <option value="energy_led_projection_light.php"> • LED泛光型</option>
+                                                    <option value="energy_led_fish_light.php"> • LED COB投射燈</option>
                                                     <option value="energy_led_big_bulb_light.php"> • LED各式球泡燈</option>
                                                     <option value="energy_led_recessed_light.php"> • LED崁燈</option>
-                                                    <option value="energy_led_chandelier_high_power.php"> • 高功率LED崁燈</option>
+                                                    <option value="energy_led_chandelier_high_power.php"> • LED高功率崁燈</option>
                                                     <option value="energy_led_ar111.php"> • LED AR111 </option>
                                                 </select>
                                             </li>
@@ -201,8 +201,8 @@
 
                     <div class="wow slideInRight ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="energy_led_clean_room.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film01.png" alt="LED 黃光燈管"></a>
-                            <p><a href="energy_led_clean_room.php">LED黃光燈管</a></p>
+                            <a href="energy_led_clean_room.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film01.png" alt="LED半導體無塵室黃光燈管"></a>
+                            <p><a href="energy_led_clean_room.php">LED半導體無塵室黃光燈管</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             半導體無塵室專用
@@ -211,11 +211,11 @@
 
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="energy_led_t8_lamp.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film04.png" alt="LED T8燈管"></a>
-                            <p><a href="energy_led_t8_lamp.php">LED T8燈管</a></p>
+                            <a href="energy_led_t8_lamp.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film04.png" alt="LED高效T8燈管"></a>
+                            <p><a href="energy_led_t8_lamp.php">LED高效T8燈管</a></p>
                         </div>
                         <p class="ltt_box_product_description">
-                            塑膠+鋁合金 防火等級V2
+                            取代傳統日光燈管
                         </p>
                     </div>
 
@@ -275,7 +275,7 @@
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
                             <a href="energy_led_projection_light.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film14.png" alt="LED 投射燈"></a>
-                            <p><a href="energy_led_projection_light.php">LED 投射燈</a></p>
+                            <p><a href="energy_led_projection_light.php">LED 泛光型</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             耐用性高的鋁合金外殼
@@ -286,7 +286,7 @@
                     <div class="wow slideInRight ltt_box_product_33 ltt_box_product_bottom">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
                             <a href="energy_led_fish_light.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film15.png" alt="LED 投射燈(無紫外線)"></a>
-                            <p><a href="energy_led_fish_light.php">LED 投射燈(無紫外線)</a></p>
+                            <p><a href="energy_led_fish_light.php">LED COB投射燈</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             無紫外光及其他有害光線
@@ -318,7 +318,7 @@
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_bottom">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
                             <a href="energy_led_chandelier_high_power.php"><img class="ltt_box_product_img" src="img/energy/product_thick_film09.png" alt="LED 崁燈"></a>
-                            <p><a href="energy_led_chandelier_high_power.php">高功率LED崁燈</a></p>
+                            <p><a href="energy_led_chandelier_high_power.php">LED高功率崁燈</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             高演色性 CRI > 80
