@@ -206,11 +206,10 @@
                             </div>
                             <ul class="ltt_page_text">
                                 <li class="ltt_page_text_li_samp">美國國家環境保護署(EPA)認可實驗室MICROBAC認證。</li>
-                                <li class="ltt_page_text_li_samp">微膠囊技術包裹和緩釋抗菌專利。</li>
+                                <li class="ltt_page_text_li_samp">微膠囊技術包裹和緩釋抗菌專利，長效抗菌能有效抑制新冠病毒。</li>
                                 <li class="ltt_page_text_li_samp">接觸抗菌及釋放抗菌雙重抗菌效果。</li>
-                                <li class="ltt_page_text_li_samp">天然百里香精油，72小時持續作用。</li>
-                                <li class="ltt_page_text_li_samp">抑制多種病毒、細菌，抗菌率＞99%*。</li>
-                                <li class="ltt_page_text_li_samp">有效抑制超過100種病毒及細菌</li>
+                                <li class="ltt_page_text_li_samp">天然百里香精油，安全抗菌去除異味。</li>
+                                <li class="ltt_page_text_li_samp">抑制多種病毒、細菌，抗菌率＞99.9%*。</li>
                                 <li class="ltt_page_text_li_samp">抗菌率>99.9%*為根據第三方檢驗實驗室的試驗方法所得出多數之結果．詳細菌種請參閱官方網站。</li>
                                 <li class="ltt_page_text_li_samp"><a href="https://shopee.tw/%E3%80%90%E7%8F%BE%E8%B2%A8%E3%80%91%E9%98%B2%E7%96%AB%E5%BF%85%E5%82%99%EF%BC%81%F0%9F%94%A5GERMAGIC-%E7%99%BE%E9%87%8C%E9%A6%9972%E5%B0%8F%E6%99%82%E9%95%B7%E6%95%88%E6%8A%97%E8%8F%8C%E9%98%B2%E8%AD%B7%E5%99%B4%E5%8A%91%F0%9F%94%A5200ML-i.383229483.9222368151?adsid=0&campaignid=0&position=-1" target="_blank">前往線上購買</a></li>
                             </ul>
@@ -230,8 +229,8 @@
                 <h4 av-animation="fadeInUp">Other Product Description</h4>
                 <div class="ltt_box_content_all">
                     <div class="wow slideInUp ltt_box_product_50 ltt_box_product_right product_features_tetx">
-                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_05.jpg" alt="美國國家環境保護署(EPA)認可實驗室Microbac認證能有效抑制新冠病毒">
-                        <samp class="product_features_type">美國國家環境保護署(EPA)認可實驗室Microbac<br>認證能有效抑制新冠病毒</samp>
+                        <img class="product_features_tetx_img" src="img/energy/energy_epidemic_90_days_05.jpg" alt="美國國家環境保護署(EPA)認可實驗室MICROBAC認證能有效抑制新冠病毒">
+                        <samp class="product_features_type">美國國家環境保護署(EPA)認可實驗室MICROBAC<br>認證能有效抑制新冠病毒</samp>
                     </div>
 
 
