@@ -2,10 +2,10 @@
 <html lang="en" class="no-js">
 
 <head>
-    <title>雷科-LASER(雷射)設備 半導體產業 單頭鐳射條碼雕刻機</title>
+    <title>雷科-LASER(雷射)設備 半導體產業 單頭雷射條碼雕刻機</title>
     <meta charset="UTF-8">
-    <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, LASER(雷射)設備, laser, 被動元件產業, Laser Trimmer,半導體產業 Laser marking 單頭鐳射條碼雕刻機, " />
-    <meta name="description" content="雷科-LASER(雷射)設備 半導體產業 單頭鐳射條碼雕刻機" />
+    <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, LASER(雷射)設備, laser, 被動元件產業, Laser Trimmer,半導體產業 Laser marking 單頭雷射條碼雕刻機, " />
+    <meta name="description" content="雷科-LASER(雷射)設備 半導體產業 單頭雷射條碼雕刻機" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="zh-tw">
@@ -50,7 +50,7 @@
 
 <body class="nav-is-fixed">
 
-    <h1>LASER(雷射)設備-半導體產業 單頭鐳射條碼雕刻機</h1>
+    <h1>LASER(雷射)設備-半導體產業 單頭雷射條碼雕刻機</h1>
 
     <!-- header  -->
     <?php include 'header.php'; ?>
@@ -79,7 +79,7 @@
                         <li><a href="#">部門資訊</a> > </li>
                         <li><a href="laser.php">LASER(雷射)設備</a> > </li>
                         <li><a href="laser_semiconductor.php">半導體產業 Laser marking</a> > </li>
-                        <li>單頭鐳射條碼雕刻機</li>
+                        <li>單頭雷射條碼雕刻機</li>
                     </ul>
                 </div>
 
@@ -108,11 +108,11 @@
                                                     <option value="laser_trimmer_thin_film.php" class="product_menu_select_class"><samp>Thin Film Trimmer ALL</samp></option>
                                                     <option value="laser_trimmer_tf3050g_s3.php"> • TF-3050G S3</option>
                                                     <option value="laser_trimmer_tf3050g_s2.php"> • TF-3050G S2</option>
-                                                    <option value="laser_trimmer_lmc10_az3200.php"> • 雙頭鐳射條碼雕刻機/LM-C10-AZ3200</option>
-                                                    <option value="laser_trimmer_lmc10_az3100.php"> • 單頭鐳射條碼雕刻機/LM-C10-MZ3100</option>
+                                                    <option value="laser_trimmer_lmc10_az3200.php"> • 雙頭雷射條碼雕刻機/LM-C10-AZ3200</option>
+                                                    <option value="laser_trimmer_lmc10_az3100.php"> • 單頭雷射條碼雕刻機/LM-C10-MZ3100</option>
                                                     <option value="laser_trimmer_lm1000.php"> • 雷射半自動雕刻機/LM1000</option>
-                                                    <option value="laser_trimmer_lmc10_az200.php"> • 全自動鐳射除膠機/LM-C10-AZ200</option>
-                                                    <option value="laser_trimmer_lmc_mz70.php"> • 半自動鐳射除膠機/LM-C10-MZ70</option>
+                                                    <option value="laser_trimmer_lmc10_az200.php"> • 全自動雷射除膠機/LM-C10-AZ200</option>
+                                                    <option value="laser_trimmer_lmc_mz70.php"> • 半自動雷射除膠機/LM-C10-MZ70</option>
                                                     <option value="laser_trimmer_lr_400.php"> • 單頭鑽孔機/LR-400</option>
                                                     <option value="laser_trimmer_ls_1070c430.php"> • 光纖雷射切割機/LS-1070C-430</option>
                                                     <option value="laser_trimmer_ls_600355400.php"> • FPC UV雷射切割機/LS-355-600 & LS-355-400</option>
@@ -170,7 +170,7 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
 
                                                     <option value="laser_semiconductor.php" class="product_menu_select_class"><samp>Laser marking ALL</samp></option>
-                                                    <option value="laser_lm_c10_az3100.php" selected="true"> • 單頭鐳射條碼雕刻機</option>
+                                                    <option value="laser_lm_c10_az3100.php" selected="true"> • 單頭雷射條碼雕刻機</option>
                                                     <option value="laser_semiconductor_Wafe_laser.php"> • Wafer Laser marking</option>
                                                     <option value="laser_semiconductor_laser_marking.php"> • Laser marking</option>
                                                 </select>
@@ -213,7 +213,7 @@
                 <div class="ltt_box_content_all">
                     <div class="wow slideInLeft ltt_box_product_50 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <img class="ltt_box_product_img" src="img/laser/product_thick_film12.png" alt="單頭鐳射條碼雕刻機">
+                            <img class="ltt_box_product_img" src="img/laser/product_thick_film12.png" alt="單頭雷射條碼雕刻機">
                         </div>
 
                     </div>
@@ -229,7 +229,7 @@
                                 </div>
                             </div>
                             <div class="ltt_page_color">
-                                <h5>單頭鐳射條碼雕刻機</h5>
+                                <h5>單頭雷射條碼雕刻機</h5>
                                 <p>LM-C10-AZ3100</p>
                             </div>
                             <ul class="ltt_page_text">
@@ -268,7 +268,7 @@
                 <div class="ltt_box_content_all">
                     <div class="wow slideInUp ltt_box_product_25 ltt_box_product_right product_features_tetx">
                         <img class="product_features_tetx_img" src="img/laser/product_thick_film12.png">
-                        <samp class="product_features_type">單頭鐳射條碼雕刻機 </samp>
+                        <samp class="product_features_type">單頭雷射條碼雕刻機 </samp>
                     </div>
 
 

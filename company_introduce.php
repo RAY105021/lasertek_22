@@ -33,7 +33,7 @@
     <link rel="stylesheet" type="text/css" href="css/component.css" />
 
 
-     <!--客服浮動+回上一頁-->
+    <!--客服浮動+回上一頁-->
     <script type="text/javascript" src="js/service.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82641040-3"></script>
@@ -189,7 +189,7 @@
 
 
                 <h3 av-animation="fadeInDown">公司簡介</h3>
-                <h4 av-animation="fadeInUp">雷科創立於1988年，專營LASER(雷射)設備、量測SEMI/PCB相關設備、SMD捲裝材料、能源事業LED</h4>
+                <h4 av-animation="fadeInUp">雷科創立於1988年，專營LASER(雷射)設備 / SMD捲裝材料 / 量測SEMI、PCB / 能源LED、GERMAGIC長效抗菌防疫</h4>
 
                 <div class="ltt_box_content_all">
                     <div class="layout_style_100 ltt_company_content_table">
@@ -216,7 +216,7 @@
 
                                 <tr>
                                     <th>營業項目</th>
-                                    <td colspan="3">SMD捲裝材料、LASER & METROLOGY設備、能源事業LED / GERMAGIC防疫系列產品</td>
+                                    <td colspan="3">LASER(雷射)設備 / SMD捲裝材料 / 量測SEMI、PCB / 能源LED、GERMAGIC長效抗菌防疫</td>
                                 </tr>
 
                                 <tr>

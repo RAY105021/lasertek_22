@@ -159,11 +159,11 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="smt_laser.php" class="product_menu_select_class"><samp>雷射設備 ALL</samp></option>
-                                                    <option value="smt_lmc10_az3200.php"> • 雙頭鐳射條碼雕刻機 / LM-C10-AZ3200</option>
-                                                    <option value="smt_lmc10_az3100.php"> • 單頭鐳射條碼雕刻機 / LM-C10-AZ3100</option>
+                                                    <option value="smt_lmc10_az3200.php"> • 雙頭雷射條碼雕刻機 / LM-C10-AZ3200</option>
+                                                    <option value="smt_lmc10_az3100.php"> • 單頭雷射條碼雕刻機 / LM-C10-AZ3100</option>
                                                     <option value="smt_lm1000.php"> • 雷射半自動雕刻機 / LM1000</option>
-                                                    <option value="smt_lmc10_az200.php"> • 全自動鐳射除膠機 / LM-C10-AZ200</option>
-                                                    <option value="smt_lmc10_mz70.php"> • 半自動鐳射除膠機 / LM-C10-MZ70</option>
+                                                    <option value="smt_lmc10_az200.php"> • 全自動雷射除膠機 / LM-C10-AZ200</option>
+                                                    <option value="smt_lmc10_mz70.php"> • 半自動雷射除膠機 / LM-C10-MZ70</option>
                                                     <option value="smt_lr_400.php"> • 單頭鑽孔機 / LR-400</option>
                                                     <option value="smt_ls_1070c430.php" selected="true"> • 光纖雷射切割機 / LS-1070C-430</option>
                                                     <option value="smt_ls_600355400.php"> • FPC UV 雷射切割機 / LS-355-600 & LS-355-400</option>
@@ -209,8 +209,8 @@
                                 <!--<p>Laser Specification</p>-->
                             </div>
                             <ul class="ltt_page_text">
-                                <li class="ltt_page_text_li_samp">使用高功率鐳射透電腦控制，人性化介面。</samp></li>
-                                <li class="ltt_page_text_li_samp">英國SPI光纖鐳射器 50W，短波長較無熱效應。</samp></li>
+                                <li class="ltt_page_text_li_samp">使用高功率雷射透電腦控制，人性化介面。</samp></li>
+                                <li class="ltt_page_text_li_samp">英國SPI光纖雷射器 50W，短波長較無熱效應。</samp></li>
                                 <li class="ltt_page_text_li_samp">塗佈在20M長光纖表面，出光穩定度高。</samp></li>
                                 <li class="ltt_page_text_li_samp">可通過輔助軟件編寫任意形狀切割路徑。</samp></li>
                             </ul>

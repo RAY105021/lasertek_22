@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="css/section_page.css"> <!-- 首頁內容 style -->
     <!--表單-->
     <link rel="stylesheet" href="css/table.css">
-     <!--客服浮動+回上一頁-->
+    <!--客服浮動+回上一頁-->
     <script type="text/javascript" src="js/service.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82641040-3"></script>
@@ -328,7 +328,7 @@
                                                     </tr>
                                                     <tr>
                                                         <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 135,273仟元，與去年同期相比增加29,391仟元，增加27.76%， 累計本公司2021年03月集團自結合併營收共345,821仟元，較去年同期增加36.92%。</td>
+                                                        <td>集團合併自結營收 108,640仟元，與去年同期相比減少26,633仟元，減少19.69%， 累計本公司2022年03月集團自結合併營收共324,555仟元，較去年同期減少6.15%。</td>
                                                     </tr>
                                                     <tr>
                                                         <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
@@ -342,457 +342,457 @@
                                             <input type="button" value="回上一頁" onclick="history.back()">
                                         </div>
                                     </div>
-                                </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 7:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 124,652仟元，與去年同期相比減少26,940仟元，減少17.77%，累計本公司2021年04月集團自結合併營收共470,473仟元，較去年同期增加16.41%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 124,652仟元，與去年同期相比減少26,940仟元，減少17.77%，累計本公司2021年04月集團自結合併營收共470,473仟元，較去年同期增加16.41%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 8:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="ltt_service_content_table_text">
-                                            <p>原定6/10(四)110年股東常會，因疫情金管會已要求停止召開，待董事會決議擇期召開。</p>
-                                        </div>
+                            <div class="ltt_service_content_table_text">
+                                <p>原定6/10(四)110年股東常會，因疫情金管會已要求停止召開，待董事會決議擇期召開。</p>
+                            </div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
-                                            <div class="tactics_down">
-                                                <img src="img/news/2021/news_20210521_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
-                                                <!--<div class="tactics_up_span">
+                            <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
+                                <div class="tactics_down">
+                                    <img src="img/news/2021/news_20210521_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
+                                    <!--<div class="tactics_up_span">
                                                     <p>感恩茶會合照</p>
                                                 </div>-->
-                                            </div>
-                                        </div>
-
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
                                 </div>
+                            </div>
 
-                            <?php
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
+
+                <?php
                                 break;
                             case 9:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 175,279仟元，與去年同期相比增加69,186仟元，增加65.21%，累計本公司2021年05月集團自結合併營收共645,753仟元，較去年同期增加26.55%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 175,279仟元，與去年同期相比增加69,186仟元，增加65.21%，累計本公司2021年05月集團自結合併營收共645,753仟元，較去年同期增加26.55%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 10:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 128,047仟元，與去年同期相比增加28,837仟元，增加29.07%，累計本公司2021年06月集團自結合併營收共773,799仟元，較去年同期增加26.96%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 128,047仟元，與去年同期相比增加28,837仟元，增加29.07%，累計本公司2021年06月集團自結合併營收共773,799仟元，較去年同期增加26.96%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 11:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>1.集團合併自結營收 159,984仟元，與去年同期相比增加76,401仟元，增加91.41%， 累計本公司2021年07月集團自結合併營收共993,784仟元，較去年同期增加43.39%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>1.集團合併自結營收 159,984仟元，與去年同期相比增加76,401仟元，增加91.41%， 累計本公司2021年07月集團自結合併營收共993,784仟元，較去年同期增加43.39%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
 
-                            <?php
+                <?php
                                 break;
                             case 12:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 160,776仟元，與去年同期相比增加65,136仟元，增加68.11%， 累計本公司2021年08月集團自結合併營收共1,094,560仟元，較去年同期增加38.78%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 160,776仟元，與去年同期相比增加65,136仟元，增加68.11%， 累計本公司2021年08月集團自結合併營收共1,094,560仟元，較去年同期增加38.78%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 13:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 167,480仟元，與去年同期相比增加55,669仟元，增加49.79%， 累計本公司2021年09月集團自結合併營收共1,262,040仟元，較去年同期增加40.15%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 167,480仟元，與去年同期相比增加55,669仟元，增加49.79%， 累計本公司2021年09月集團自結合併營收共1,262,040仟元，較去年同期增加40.15%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 14:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 170,064仟元，與去年同期相比增加88,221仟元，增加107.79%，累計本公司2021年10月集團自結合併營收共1,432,104仟元，較去年同期增加45.78%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 170,064仟元，與去年同期相比增加88,221仟元，增加107.79%，累計本公司2021年10月集團自結合併營收共1,432,104仟元，較去年同期增加45.78%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 15:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="ltt_service_content_table_text">
-                                            <p>雷科於2021年10月20日進行（Talent Quality-management System，人才發展品質管理系統）評核，在歷經前兩次評選銀牌獎後，本次終獲得TTQS企業機構版金牌獎的最高榮譽。(從官網顯示此次企業機構版金牌得獎率約2.2%) 這個獎項不光是對公司內部辦訓單位的肯定，也是對公司長期對人才培訓的認證；除了感謝內部所有的員工與主管積極投入培訓，也感謝幫助過雷科的每一位外部講師與工作人員。</p>
-                                        </div>
+                            <div class="ltt_service_content_table_text">
+                                <p>雷科於2021年10月20日進行（Talent Quality-management System，人才發展品質管理系統）評核，在歷經前兩次評選銀牌獎後，本次終獲得TTQS企業機構版金牌獎的最高榮譽。(從官網顯示此次企業機構版金牌得獎率約2.2%) 這個獎項不光是對公司內部辦訓單位的肯定，也是對公司長期對人才培訓的認證；除了感謝內部所有的員工與主管積極投入培訓，也感謝幫助過雷科的每一位外部講師與工作人員。</p>
+                            </div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
-                                            <div class="tactics_down">
-                                                <img src="img/news/2021/news_20211201_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
-                                                <!--<div class="tactics_up_span">
+                            <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
+                                <div class="tactics_down">
+                                    <img src="img/news/2021/news_20211201_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
+                                    <!--<div class="tactics_up_span">
                                                     <p>感恩茶會合照</p>
                                                 </div>-->
-                                            </div>
-                                        </div>
-
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
                                 </div>
+                            </div>
 
-                            <?php
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
+
+                <?php
                                 break;
                             case 16:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
-                                        <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
-                                            <table>
-                                                <tbody>
-                                                    <tr>
-                                                        <th width="25%">發布單位</th>
-                                                        <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布日期</th>
-                                                        <td><?php echo $_GET['date']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>發布主旨</th>
-                                                        <td><?php echo $_GET['web']; ?></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th rowspan="2">內容說明</th>
-                                                        <td>集團合併自結營收 134,379仟元，與去年同期相比增加24,481仟元，增加22.28%，累計本公司2021年11月集團自結合併營收共1,566,483仟元，較去年同期增加43.42%。</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
+                            <div class="layout_box_product_100 ltt_box_product_right company_table_left wow slideInLeft">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <th width="25%">發布單位</th>
+                                            <td width="75%">本公司<a aria-label="詳細資料" data-balloon-pos="up" href="service.php">發言人</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布日期</th>
+                                            <td><?php echo $_GET['date']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th>發布主旨</th>
+                                            <td><?php echo $_GET['web']; ?></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2">內容說明</th>
+                                            <td>集團合併自結營收 134,379仟元，與去年同期相比增加24,481仟元，增加22.28%，累計本公司2021年11月集團自結合併營收共1,566,483仟元，較去年同期增加43.42%。</td>
+                                        </tr>
+                                        <tr>
+                                            <td>上述營收數字係本公司每月於<a aria-label="前往網站" data-balloon-pos="up" href="https://mops.twse.com.tw/mops/web/t05st01" target="_blank">公開資訊觀測站</a>申報之數字，最終之營收數字以經會計師簽證之財務報告為準。</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
+                    </div>
 
-                            <?php
+                <?php
                                 break;
                             case 17:
-                            ?>
-                                <div class="layout_style_100 ltt_service_content_table white_bg">
-                                    <div class="ltt_box_content_all">
-                                        <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
-                                        <div class="csr_date"><?php echo $_GET['date']; ?></div>
+                ?>
+                    <div class="layout_style_100 ltt_service_content_table white_bg">
+                        <div class="ltt_box_content_all">
+                            <div class="csr_h3_title_line"><?php echo $_GET['web']; ?></div>
+                            <div class="csr_date"><?php echo $_GET['date']; ?></div>
 
 
-                                        <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
-                                            <div class="tactics_down">
-                                                <img src="img/news/2021/news_20211228_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
-                                                <!--<div class="tactics_up_span">
+                            <div class="layout_box_product_100 ltt_box_product_right wow slideInRight">
+                                <div class="tactics_down">
+                                    <img src="img/news/2021/news_20211228_01.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
+                                    <!--<div class="tactics_up_span">
                                                     <p>感恩茶會合照</p>
                                                 </div>-->
-                                            </div>
-                                        </div>
-
-                                        <div class="layout_box_product_100 ltt_box_product_right wow slideInLeft">
-                                            <div class="tactics_down">
-                                                <img src="img/news/2021/news_20211228_02.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
-                                                <!--<div class="tactics_up_span">
-                                                    <p>感恩茶會合照</p>
-                                                </div>-->
-                                            </div>
-                                        </div>
-
-
-
-                                        <div class="layout_box_product_100 csr_input">
-                                            <input type="button" value="回上一頁" onclick="history.back()">
-                                        </div>
-                                    </div>
                                 </div>
+                            </div>
+
+                            <div class="layout_box_product_100 ltt_box_product_right wow slideInLeft">
+                                <div class="tactics_down">
+                                    <img src="img/news/2021/news_20211228_02.jpg" alt="<?php echo $_GET['web']; ?>" title="<?php echo $_GET['web']; ?>">
+                                    <!--<div class="tactics_up_span">
+                                                    <p>感恩茶會合照</p>
+                                                </div>-->
+                                </div>
+                            </div>
 
 
 
-
-
-
-
+                            <div class="layout_box_product_100 csr_input">
+                                <input type="button" value="回上一頁" onclick="history.back()">
+                            </div>
+                        </div>
                     </div>
+
+
+
+
+
 
 
                 </div>
 
 
-        <?php
+        </div>
+
+
+<?php
                                 break;
                         }
-        ?>
+?>
 
-        </div>
-        </div>
-        </div>
-        </section>
-        <!--公司產品服務 ＥＮＤ-->
+</div>
+</div>
+</div>
+</section>
+<!--公司產品服務 ＥＮＤ-->
 
 
-        <!-- footer -->
-        <?php include 'footer.php'; ?>
+<!-- footer -->
+<?php include 'footer.php'; ?>
 
-        </div>
+</div>
 
     </main>
 

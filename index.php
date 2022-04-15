@@ -40,7 +40,7 @@
     <link rel="stylesheet" href="css/loader.css">
     <script type="text/javascript" src="js/loader.js"></script>
 
-     <!--客服浮動+回上一頁-->
+    <!--客服浮動+回上一頁-->
     <script type="text/javascript" src="js/service.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82641040-3"></script>
@@ -120,7 +120,7 @@
             <!--公司產品服務-->
             <section class="ltt_smt_map_all_gray">
                 <h3 class="wow fadeInDown" av-animation="fadeInDown">公司產品服務</h3>
-                <h4 class="wow fadeInUp" av-animation="fadeInUp"> SMD捲裝材料 /LASER(雷射)設備 / 量測SEMI、PCB / 能源LED、GERMAGIC長效抗菌防疫</h4>
+                <h4 class="wow fadeInUp" av-animation="fadeInUp"> LASER(雷射)設備 / SMD捲裝材料 / 量測SEMI、PCB / 能源LED、GERMAGIC長效抗菌防疫</h4>
 
                 <div class="ltt_box_content_all">
 
@@ -140,9 +140,9 @@
                             <div class="ltt_box_bgcolor_white_bg">
                                 <div class="ltt_box_bgcolor_white_bg_left">
                                     <h5>
-                                        鐳射備品零件銷售<br>
+                                        雷射備品零件銷售<br>
                                         設備專業保養維護<br>
-                                        代客設計各項鐳射運用設備
+                                        代客設計各項雷射運用設備
                                     </h5>
                                 </div>
                                 <div class="ltt_box_bgcolor_white_bg_right">
@@ -184,18 +184,18 @@
                     </div>
                     <!-- SMD捲裝材料 END-->
 
-                    <!-- SEMI/PCB相關設備 -->
+                    <!-- 量測SEMI/PCB -->
                     <div class="wow slideInLeft ltt_box_product_50 ltt_box_product_right">
                         <div class="ltt_box_bgcolor ltt_box_product_img">
                             <!-- 產品圖片 -->
                             <div class="ltt_box_bgcolor_img">
-                                <a href="smt.php"><img src="img/ltt_box_bgcolor_03.png" alt="SEMI/PCB相關設備"></a>
+                                <a href="smt.php"><img src="img/ltt_box_bgcolor_03.png" alt="量測SEMI/PCB"></a>
                             </div>
 
                             <!-- All layers-->
-                            <div class="ltt_box_bgcolor_title">量測SEMI/PCB相關設備</div>
+                            <div class="ltt_box_bgcolor_title">量測SEMI/PCB</div>
                             <div class="ltt_box_bgcolor_bg">
-                                <img src="img/ltt_box_bgcolor_bg_03.jpg" alt="SEMI/PCB相關設備 底圖">
+                                <img src="img/ltt_box_bgcolor_bg_03.jpg" alt="量測SEMI/PCB 底圖">
                             </div>
                             <div class="ltt_box_bgcolor_white_bg">
                                 <div class="ltt_box_bgcolor_white_bg_left">

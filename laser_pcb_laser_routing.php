@@ -108,11 +108,11 @@
                                                     <option value="laser_trimmer_thin_film.php" class="product_menu_select_class"><samp>Thin Film Trimmer ALL</samp></option>
                                                     <option value="laser_trimmer_tf3050g_s3.php"> • TF-3050G S3</option>
                                                     <option value="laser_trimmer_tf3050g_s2.php"> • TF-3050G S2</option>
-                                                    <option value="laser_trimmer_lmc10_az3200.php"> • 雙頭鐳射條碼雕刻機/LM-C10-AZ3200</option>
-                                                    <option value="laser_trimmer_lmc10_az3100.php"> • 單頭鐳射條碼雕刻機/LM-C10-AZ3100</option>
+                                                    <option value="laser_trimmer_lmc10_az3200.php"> • 雙頭雷射條碼雕刻機/LM-C10-AZ3200</option>
+                                                    <option value="laser_trimmer_lmc10_az3100.php"> • 單頭雷射條碼雕刻機/LM-C10-AZ3100</option>
                                                     <option value="laser_trimmer_lm1000.php"> • 雷射半自動雕刻機/LM 1000</option>
-                                                    <option value="laser_trimmer_lmc10_az200.php"> • 全自動鐳射除膠機/LM-C10-AZ200</option>
-                                                    <option value="laser_trimmer_lmc_mz70.php"> • 半自動鐳射除膠機/LM-C10-MZ70</option>
+                                                    <option value="laser_trimmer_lmc10_az200.php"> • 全自動雷射除膠機/LM-C10-AZ200</option>
+                                                    <option value="laser_trimmer_lmc_mz70.php"> • 半自動雷射除膠機/LM-C10-MZ70</option>
                                                     <option value="laser_trimmer_lr_400.php "> • 單頭鑽孔機/LR-400</option>
                                                     <option value="laser_trimmer_ls_1070c430.php"> • 光纖雷射切割機/LS-1070C-430</option>
                                                     <option value="laser_trimmer_ls_600355400.php"> • FPC UV雷射切割機/LS-355-600 & LS-355-400</option>
@@ -169,7 +169,7 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#" selected="true">選擇產品</option>
                                                     <option value="laser_semiconductor.php" class="product_menu_select_class"><samp>Laser marking ALL</samp></option>
-                                                    <option value="laser_lm_c10_az3100.php"> • 單頭鐳射條碼雕刻機</option>
+                                                    <option value="laser_lm_c10_az3100.php"> • 單頭雷射條碼雕刻機</option>
                                                     <option value="laser_semiconductor_Wafe_laser.php"> • Wafer Laser marking</option>
                                                     <option value="laser_semiconductor_laser_marking.php"> • Laser marking</option>
                                                 </select>

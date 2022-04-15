@@ -32,7 +32,7 @@
     <!--頁碼-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/jquery.jold.paginator.min.js"></script>
-     <!--客服浮動+回上一頁-->
+    <!--客服浮動+回上一頁-->
     <script type="text/javascript" src="js/service.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82641040-3"></script>
@@ -132,6 +132,10 @@
                     <div class="items_container_table">
                         <div class="items-container">
                             <ul>
+                                <li class="item item-visible">
+                                    <div class="ltt_news_content_table_date">2022/04/08</div>
+                                    <div class="ltt_news_content_table_text"><a href="ltt_news2022_page.php?news=6&years=2022&date=2022/04/08&web=公布本公司2022年03月份自結營收(合併營收)"> 公布本公司2022年03月份自結營收(合併營收)。</a></div>
+                                </li>
                                 <li class="item item-visible">
                                     <div class="ltt_news_content_table_date">2022/03/16</div>
                                     <div class="ltt_news_content_table_text"><a href="ltt_news2022_page.php?news=5&years=2022&date=2022/03/16&web=雷科跟劼科共同捐贈GERMAGIC防疫抗菌產品至聖功醫院。">雷科跟劼科共同捐贈GERMAGIC防疫抗菌產品至聖功醫院。</a></div>

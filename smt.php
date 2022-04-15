@@ -122,18 +122,18 @@
                         <ul>
                             <li>
                                 <div class="ltt_news_content_table_date">【 服務內容 】</div>
-                                <div class="ltt_news_content_table_text">各項專業鐳射備品零件銷售、設備專業保養維護、代客設計各項鐳射運用設備。</div>
+                                <div class="ltt_news_content_table_text">各項專業雷射備品零件銷售、設備專業保養維護、代客設計各項雷射運用設備。</div>
                             </li>
                             <li>
                                 <div class="ltt_news_content_table_date">【 服務項目 】</div>
                                 <div class="ltt_news_content_table_text">
-                                    鐳射機銷售，安裝，樣品試切、維修，訓練等售後服務、機器零件組件銷售、其他週邊，如flying probe、probe card、tools等。<br>
+                                    雷射機銷售，安裝，樣品試切、維修，訓練等售後服務、機器零件組件銷售、其他週邊，如flying probe、probe card、tools等。<br>
                                     flying probe - 各電阻值線外量測、精度：100mil~100Mohm，0.001%、100mmX100mm stepping 0.025°
                                 </div>
                             </li>
                             <li>
                                 <div class="ltt_news_content_table_date">【 市場定位 】</div>
-                                <div class="ltt_news_content_table_text">配合各區域生產需求量，目前設置專業鐳射調阻機組裝廠(台灣高雄，美國加州，新加坡)，快速確實做到完善服務。</div>
+                                <div class="ltt_news_content_table_text">配合各區域生產需求量，目前設置專業雷射調阻機組裝廠(台灣高雄，美國加州，新加坡)，快速確實做到完善服務。</div>
                             </li>
 
                             <li>

@@ -178,11 +178,11 @@
                                                 <select class="select-css" onChange="location = this.options[this.selectedIndex].value;">
                                                     <option value="#">選擇產品</option>
                                                     <option value="smt_laser.php" class="product_menu_select_class" selected="true"><samp>雷射設備 ALL</samp></option>
-                                                    <option value="smt_lmc10_az3200.php"> • 雙頭鐳射條碼雕刻機 / LM-C10-AZ3200</option>
-                                                    <option value="smt_lmc10_az3100.php"> • 單頭鐳射條碼雕刻機 / LM-C10-AZ3100</option>
+                                                    <option value="smt_lmc10_az3200.php"> • 雙頭雷射條碼雕刻機 / LM-C10-AZ3200</option>
+                                                    <option value="smt_lmc10_az3100.php"> • 單頭雷射條碼雕刻機 / LM-C10-AZ3100</option>
                                                     <option value="smt_lm1000.php"> • 雷射半自動雕刻機 / LM1000</option>
-                                                    <option value="smt_lmc10_az200.php"> • 全自動鐳射除膠機 / LM-C10-AZ200</option>
-                                                    <option value="smt_lmc10_mz70.php"> • 半自動鐳射除膠機 / LM-C10-MZ70</option>
+                                                    <option value="smt_lmc10_az200.php"> • 全自動雷射除膠機 / LM-C10-AZ200</option>
+                                                    <option value="smt_lmc10_mz70.php"> • 半自動雷射除膠機 / LM-C10-MZ70</option>
                                                     <option value="smt_lr_400.php"> • 單頭鑽孔機 / LR-400</option>
                                                     <option value="smt_ls_1070c430.php"> • 光纖雷射切割機 / LS-1070C-430</option>
                                                     <option value="smt_ls_600355400.php"> • FPC UV 雷射切割機 / LS-355-600 & LS-355-400</option>
@@ -208,8 +208,8 @@
                 <div class="ltt_box_content_all">
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="smt_lmc10_az3200.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film19.png" alt="雙頭鐳射條碼雕刻機/ LM-C10-AZ3200"></a>
-                            <p><a href="smt_lmc10_az3200.php">雙頭鐳射條碼雕刻機 </a></p>
+                            <a href="smt_lmc10_az3200.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film19.png" alt="雙頭雷射條碼雕刻機/ LM-C10-AZ3200"></a>
+                            <p><a href="smt_lmc10_az3200.php">雙頭雷射條碼雕刻機 </a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             非接觸式加工，無刀具更換及斷裂磨耗問題
@@ -218,8 +218,8 @@
 
                     <div class="wow slideInRight ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="smt_lmc10_az3100.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film20.png" alt="單頭鐳射條碼雕刻機/LM-C10-AZ3100"></a>
-                            <p><a href="smt_lmc10_az3100.php">單頭鐳射條碼雕刻機</a></p>
+                            <a href="smt_lmc10_az3100.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film20.png" alt="單頭雷射條碼雕刻機/LM-C10-AZ3100"></a>
+                            <p><a href="smt_lmc10_az3100.php">單頭雷射條碼雕刻機</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             永久性標記，雕刻效果精緻美觀，提升產品質感
@@ -238,8 +238,8 @@
 
                     <div class="wow slideInRight ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="smt_lmc10_az200.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film22.png" alt="全自動鐳射除膠機/LM-C10-AZ200"></a>
-                            <p><a href="smt_lmc10_az200.php">全自動鐳射除膠機</a></p>
+                            <a href="smt_lmc10_az200.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film22.png" alt="全自動雷射除膠機/LM-C10-AZ200"></a>
+                            <p><a href="smt_lmc10_az200.php">全自動雷射除膠機</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             適用材料廣泛，無材料硬度之限制
@@ -249,8 +249,8 @@
 
                     <div class="wow slideInLeft ltt_box_product_33 ltt_box_product_right">
                         <div class="ltt_box_laser_05 ltt_box_product_img02">
-                            <a href="smt_lmc10_mz70.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film23.png" alt="半自動鐳射除膠機/LM-C10-MZ70"></a>
-                            <p><a href="smt_lmc10_mz70.php">半自動鐳射除膠機</a></p>
+                            <a href="smt_lmc10_mz70.php"><img class="ltt_box_product_img" src="img/smt/product_thick_film23.png" alt="半自動雷射除膠機/LM-C10-MZ70"></a>
+                            <p><a href="smt_lmc10_mz70.php">半自動雷射除膠機</a></p>
                         </div>
                         <p class="ltt_box_product_description">
                             自動化設計周全，大量小量生產皆適宜
@@ -274,7 +274,7 @@
                             <p><a href="smt_ls_1070c430.php">光纖雷射切割機</a></p>
                         </div>
                         <p class="ltt_box_product_description">
-                            英國SPI光纖鐳射器 50W，短波長較無熱效應
+                            英國SPI光纖雷射器 50W，短波長較無熱效應
                         </p>
                     </div>
 

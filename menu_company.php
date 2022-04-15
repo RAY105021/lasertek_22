@@ -79,12 +79,10 @@ id="localhost_page"
                         <li class="has-children">
                             <a href="#0">被動元件產業</a>
                             <ul class="is-hidden">
-                                <li class="go-back"><a href="#0">回LASER(雷射)設備產品類別</a></li>
-                                <li><a href="laser_trimmer_thick_film.php">Laser Trimmer-Thick Film Trimmer</a></li>
-                                <li><a href="laser_trimmer_thin_film.php">Laser Trimmer-Thin Film Trimmer</a></li>
-                                <li><a href="laser_trimmer_functional.php">Laser Trimmer-Functional Trimmer</a></li>
-                                <li><a href="laser_scribing.php">Laser Scribing</a></li>
-                                <li><a href="laser_trimmer_embedded_resistor.php">Embedded Resistor Laser Trimmer</a></li>
+                                <li class="go-back"><a href="#0">回LASER設備 類別</a></li>
+                                <li><a href="laser_trimmer_thick_film.php">Thick Film Trimmer</a></li>
+                                <li><a href="laser_trimmer_thin_film.php">Thin Film Trimmer</a></li>
+                                <li><a href="laser_trimmer_functional.php">Functional Embedded Resistor Trimmer</a></li>
                             </ul>
                         </li>
                         <li><a href="laser_pcb_fpcb.php">PCB / FPC產業</a></li>
